@@ -1,4 +1,4 @@
-# GavidiaStreaming — tienda y administración local
+# SUPER.INTELIGENICIA — tienda y administración local
 
 Réplica del sitio observado el 25–26 de septiembre de 2026, con 90 productos iniciales, imágenes locales y un panel para administrar su contenido.
 
