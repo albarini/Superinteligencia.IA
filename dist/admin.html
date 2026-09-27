@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="theme-color" content="#171717">
+  <title>Administración · GavidiaStreaming</title>
+  <link rel="icon" href="/assets/dbb07b5a2d23926b.png">
+  <link rel="stylesheet" href="/admin.css">
+  <script type="module" src="/admin.js"></script>
+</head>
+<body>
+  <a class="skip" href="#workspace">Saltar al editor</a>
+  <aside class="sidebar">
+    <a href="/" class="brand"><span class="brand-mark">G<span>•</span></span><span>GavidiaStreaming<small>ADMINISTRACIÓN</small></span></a>
+    <div class="nav-label">TU TIENDA</div>
+    <nav id="admin-nav" aria-label="Secciones de administración">
+      <button type="button" data-view="products" class="active" aria-current="page"><span aria-hidden="true">▦</span>Productos</button>
+      <button type="button" data-view="offers"><span aria-hidden="true">%</span>Ofertas</button>
+      <button type="button" data-view="categories"><span aria-hidden="true">▤</span>Categorías</button>
+      <button type="button" data-view="banners"><span aria-hidden="true">▧</span>Banners</button>
+      <button type="button" data-view="appearance"><span aria-hidden="true">◐</span>Apariencia y textos</button>
+      <button type="button" data-view="contact"><span aria-hidden="true">◎</span>Contacto</button>
+      <button type="button" data-view="media"><span aria-hidden="true">▣</span>Medios</button>
+    </nav>
+    <div class="sidebar-bottom"><span class="local-dot"></span> Panel local<small>Cambios guardados en este equipo</small><a href="/" target="_blank" rel="noopener">Ver tienda <span aria-hidden="true">↗</span></a></div>
+  </aside>
+  <div class="app-shell">
+    <header class="topbar"><div><span class="eyebrow">ADMINISTRACIÓN</span><h1 id="page-title">Productos</h1></div><a href="/" target="_blank" rel="noopener" class="button store-link">Ver tienda <span aria-hidden="true">↗</span></a></header>
+    <div class="savebar"><div id="save-status" role="status" aria-live="polite"><span class="status-dot"></span>Conectando con tu tienda…</div><div class="save-actions"><button type="button" id="discard" class="button subtle" disabled>Descartar</button><button type="button" id="save" class="button primary" disabled>Guardar cambios</button></div></div>
+    <div id="message" class="message" role="alert" hidden></div>
+    <main id="workspace" tabindex="-1"><div class="loading"><span class="spinner"></span>Cargando el panel…</div></main>
+    <footer class="admin-footer"><span id="revision">Panel local · almacenamiento en este equipo</span><div><a href="/api/admin/export" id="export-link" download>Exportar copia JSON</a><button type="button" id="restore" disabled>Restaurar versión anterior</button></div></footer>
+  </div>
+  <dialog id="media-dialog" aria-labelledby="media-dialog-title"><div class="dialog-head"><div><span class="eyebrow">BIBLIOTECA</span><h2 id="media-dialog-title">Elegir imagen</h2></div><button type="button" class="button icon-button" data-action="close-media" aria-label="Cerrar biblioteca">×</button></div><p class="muted">Selecciona una imagen para reutilizarla o sube una nueva.</p><div id="media-dialog-body"></div></dialog>
+  <dialog id="confirm-dialog" aria-labelledby="confirm-title" aria-describedby="confirm-text"><h2 id="confirm-title">Confirmar cambio</h2><p id="confirm-text" class="muted"></p><div class="inline-actions"><button type="button" class="button" id="confirm-cancel">Cancelar</button><button type="button" class="button primary" id="confirm-accept">Confirmar</button></div></dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
