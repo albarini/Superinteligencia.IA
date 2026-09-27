@@ -1,0 +1,2514 @@
+{
+  "schemaVersion": 1,
+  "revision": 6,
+  "updatedAt": "2026-09-26T22:56:56.852Z",
+  "products": [
+    {
+      "id": 1,
+      "name": "Duolingo Plus",
+      "price": 5,
+      "max": 40,
+      "image": "./assets/665861b26dabf201.jpg",
+      "category": "licencias-de-software",
+      "sub": "Otros Programas",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Otros Programas"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 0,
+      "homeOrder": 0,
+      "variants": []
+    },
+    {
+      "id": 2,
+      "name": "Microsoft Office 365 – 12 Meses Pro Privado",
+      "price": 14,
+      "max": 0,
+      "image": "./assets/c6864ea819ab6749.jpg",
+      "category": "licencias-de-software",
+      "sub": "Ofimática",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Ofimática"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 1,
+      "homeOrder": 1,
+      "variants": []
+    },
+    {
+      "id": 3,
+      "name": "Netflix Premium 1 Perfil – 1 Mes",
+      "price": 4.5,
+      "max": 0,
+      "image": "./assets/f34bd9c2f3cc3665.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 2,
+      "homeOrder": 2,
+      "variants": []
+    },
+    {
+      "id": 4,
+      "name": "1 DISPOSITIVO – FLU TV",
+      "price": 3.5,
+      "max": 30,
+      "image": "./assets/47f76e22452eaf75.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Televisión en Vivo / IPTV",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Televisión en Vivo / IPTV"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 4,
+      "homeOrder": 3,
+      "variants": []
+    },
+    {
+      "id": 5,
+      "name": "1 DISPOSITIVO – OLEA TV",
+      "price": 3,
+      "max": 28,
+      "image": "./assets/e0ed6a796af1dba7.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Televisión en Vivo / IPTV",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Televisión en Vivo / IPTV"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 5,
+      "homeOrder": 4,
+      "variants": []
+    },
+    {
+      "id": 6,
+      "name": "1 DISPOSITIVO – PLE – 1 MES",
+      "price": 2.8,
+      "max": 0,
+      "image": "./assets/b2487791b4697250.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Televisión en Vivo / IPTV",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Televisión en Vivo / IPTV"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 6,
+      "homeOrder": 5,
+      "variants": []
+    },
+    {
+      "id": 7,
+      "name": "1 DISPOSITIVO – STEL.TV",
+      "price": 3,
+      "max": 28,
+      "image": "./assets/0f5d14c01ef3173e.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Televisión en Vivo / IPTV",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Televisión en Vivo / IPTV"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 7,
+      "homeOrder": 6,
+      "variants": []
+    },
+    {
+      "id": 8,
+      "name": "Adobe Express Premium – Clave de suscripción de 12 meses",
+      "price": 50,
+      "max": 0,
+      "image": "./assets/2fe9a3640f204d4c.jpg",
+      "category": "licencias-de-software",
+      "sub": "Diseño Gráfico",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Diseño Gráfico"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 11,
+      "homeOrder": 7,
+      "variants": []
+    },
+    {
+      "id": 9,
+      "name": "Adobe Express Premium – Cuenta Privada Acceso",
+      "price": 7,
+      "max": 50,
+      "image": "./assets/2fe9a3640f204d4c.jpg",
+      "category": "licencias-de-software",
+      "sub": "Diseño Gráfico",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Diseño Gráfico"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 12,
+      "homeOrder": 8,
+      "variants": []
+    },
+    {
+      "id": 10,
+      "name": "Apple Tv 1 Dispositivo – 1 Mes",
+      "price": 2.5,
+      "max": 0,
+      "image": "./assets/963b7c065ef7df59.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 14,
+      "homeOrder": 9,
+      "variants": []
+    },
+    {
+      "id": 11,
+      "name": "Apple Tv Cuenta Completa",
+      "price": 4,
+      "max": 10,
+      "image": "./assets/963b7c065ef7df59.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 15,
+      "homeOrder": 10,
+      "variants": []
+    },
+    {
+      "id": 12,
+      "name": "Autodesk Apps Collection 2026 (PC, Mac) (1 User, Privado)",
+      "price": 10,
+      "max": 40,
+      "image": "./assets/6284b0cc2ad52492.jpg",
+      "category": "licencias-de-software",
+      "sub": "Diseño Gráfico",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Diseño Gráfico"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 16,
+      "homeOrder": 11,
+      "variants": []
+    },
+    {
+      "id": 13,
+      "name": "CANVA PRO A SU CORREO",
+      "price": 6,
+      "max": 16,
+      "image": "./assets/759632789d579582.jpg",
+      "category": "licencias-de-software",
+      "sub": "Diseño Gráfico",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Diseño Gráfico"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 17,
+      "homeOrder": 12,
+      "variants": []
+    },
+    {
+      "id": 14,
+      "name": "CapCut Pro 1 Dispositivo solo celular – 1 Mes",
+      "price": 5,
+      "max": 0,
+      "image": "./assets/93b46870e6321d82.jpg",
+      "category": "licencias-de-software",
+      "sub": "Edición de Video",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Edición de Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 18,
+      "homeOrder": 13,
+      "variants": []
+    },
+    {
+      "id": 15,
+      "name": "CapCut Pro Cuenta Completa – 1 Mes",
+      "price": 8,
+      "max": 0,
+      "image": "./assets/93b46870e6321d82.jpg",
+      "category": "licencias-de-software",
+      "sub": "Edición de Video",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Edición de Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 19,
+      "homeOrder": 14,
+      "variants": []
+    },
+    {
+      "id": 16,
+      "name": "Claro Video + Liga 1 max Cuenta Completa – 1 Mes",
+      "price": 8,
+      "max": 0,
+      "image": "./assets/81281a0a8271e1c3.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Deportes",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Deportes"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 24,
+      "homeOrder": 15,
+      "variants": []
+    },
+    {
+      "id": 17,
+      "name": "Claro Video + Liga 1 max 1 Perfil – 1 Mes",
+      "price": 4.5,
+      "max": 0,
+      "image": "./assets/81281a0a8271e1c3.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Deportes",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Deportes"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 23,
+      "homeOrder": 16,
+      "variants": []
+    },
+    {
+      "id": 18,
+      "name": "Crunchyroll Mega Fan 1 Perfil – 1 Mes",
+      "price": 1.7,
+      "max": 0,
+      "image": "./assets/18ab76ceb50d4fbb.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 25,
+      "homeOrder": 17,
+      "variants": []
+    },
+    {
+      "id": 19,
+      "name": "Crunchyroll Mega Fan Cuenta Completa | 12 Meses",
+      "price": 30,
+      "max": 0,
+      "image": "./assets/18ab76ceb50d4fbb.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 26,
+      "homeOrder": 18,
+      "variants": []
+    },
+    {
+      "id": 20,
+      "name": "CUENTAS – FLU TV",
+      "price": 6,
+      "max": 55,
+      "image": "./assets/c0b374f442980c89.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Televisión en Vivo / IPTV",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Televisión en Vivo / IPTV"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 27,
+      "homeOrder": 19,
+      "variants": []
+    },
+    {
+      "id": 21,
+      "name": "CUENTAS – STEL.TV",
+      "price": 6,
+      "max": 45,
+      "image": "./assets/f12bc44b54101850.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Televisión en Vivo / IPTV",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Televisión en Vivo / IPTV"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 30,
+      "homeOrder": 20,
+      "variants": []
+    },
+    {
+      "id": 22,
+      "name": "CUENTAS – T.L",
+      "price": 6,
+      "max": 42,
+      "image": "./assets/1cf882cb74b7a2e2.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Televisión en Vivo / IPTV",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Televisión en Vivo / IPTV"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 31,
+      "homeOrder": 21,
+      "variants": []
+    },
+    {
+      "id": 23,
+      "name": "CUENTAS – OLEA TV",
+      "price": 6,
+      "max": 50,
+      "image": "./assets/ce4ff94c7ee16107.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Televisión en Vivo / IPTV",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Televisión en Vivo / IPTV"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 28,
+      "homeOrder": 22,
+      "variants": []
+    },
+    {
+      "id": 24,
+      "name": "CUENTAS – PLE 1 MES",
+      "price": 4.5,
+      "max": 0,
+      "image": "./assets/ac155ece12b7c1ca.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Televisión en Vivo / IPTV",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Televisión en Vivo / IPTV"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 29,
+      "homeOrder": 23,
+      "variants": []
+    },
+    {
+      "id": 25,
+      "name": "Deezer Premium Plan individual",
+      "price": 2.3,
+      "max": 15,
+      "image": "./assets/6fc9db5701ac0c83.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Música",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Música"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 32,
+      "homeOrder": 24,
+      "variants": []
+    },
+    {
+      "id": 26,
+      "name": "Directv Go + Liga 1 max – 1 Dispositivo 1 Mes",
+      "price": 7,
+      "max": 0,
+      "image": "./assets/0976bc9df9664854.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Deportes",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Deportes"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 33,
+      "homeOrder": 25,
+      "variants": []
+    },
+    {
+      "id": 27,
+      "name": "Directv Go+ Liga 1 max Cuenta Completa – 1 Mes",
+      "price": 13,
+      "max": 0,
+      "image": "./assets/0976bc9df9664854.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Deportes",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Deportes"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 34,
+      "homeOrder": 26,
+      "variants": []
+    },
+    {
+      "id": 28,
+      "name": "Disney Estándar 1 Perfil – 1 Mes",
+      "price": 2,
+      "max": 0,
+      "image": "./assets/597822d1c2e22666.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 35,
+      "homeOrder": 27,
+      "variants": []
+    },
+    {
+      "id": 29,
+      "name": "Disney Estándar Cuenta Completa – 1 Mes",
+      "price": 7,
+      "max": 0,
+      "image": "./assets/597822d1c2e22666.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 36,
+      "homeOrder": 28,
+      "variants": []
+    },
+    {
+      "id": 30,
+      "name": "Disney Premium 1 Perfil – 1 Mes",
+      "price": 2.8,
+      "max": 0,
+      "image": "./assets/02fa921fa98b2b8c.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 37,
+      "homeOrder": 29,
+      "variants": []
+    },
+    {
+      "id": 31,
+      "name": "Disney Premium Cuenta Completa – 1 Mes",
+      "price": 10,
+      "max": 0,
+      "image": "./assets/02fa921fa98b2b8c.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 38,
+      "homeOrder": 30,
+      "variants": []
+    },
+    {
+      "id": 32,
+      "name": "ESET Security Essential 1 dispositivo 1 año Clave GLOBAL",
+      "price": 25,
+      "max": 0,
+      "image": "./assets/992b721dcd31cab6.jpg",
+      "category": "licencias-de-software",
+      "sub": "Antivirus",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Antivirus"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 40,
+      "homeOrder": 31,
+      "variants": []
+    },
+    {
+      "id": 33,
+      "name": "ExpressVPN 1 Dispositivo solo Celular",
+      "price": 3,
+      "max": 22,
+      "image": "./assets/71f53647e2835791.jpg",
+      "category": "vpns-y-seguridad",
+      "sub": "VPNs Premium",
+      "available": true,
+      "categories": [
+        "vpns-y-seguridad"
+      ],
+      "subs": [
+        "VPNs Premium"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 41,
+      "homeOrder": 32,
+      "variants": []
+    },
+    {
+      "id": 34,
+      "name": "ExpressVPN 1 Dispositivo solo PC",
+      "price": 3,
+      "max": 20,
+      "image": "./assets/71f53647e2835791.jpg",
+      "category": "vpns-y-seguridad",
+      "sub": "VPNs Premium",
+      "available": true,
+      "categories": [
+        "vpns-y-seguridad"
+      ],
+      "subs": [
+        "VPNs Premium"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 42,
+      "homeOrder": 33,
+      "variants": []
+    },
+    {
+      "id": 35,
+      "name": "GIF CARD 1 MES – T.L",
+      "price": 3,
+      "max": 6,
+      "image": "./assets/18d5388555058495.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Televisión en Vivo / IPTV",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Televisión en Vivo / IPTV"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 44,
+      "homeOrder": 34,
+      "variants": []
+    },
+    {
+      "id": 36,
+      "name": "HMA VPN 1 Dispositivo 1 Año",
+      "price": 20,
+      "max": 0,
+      "image": "./assets/97fe1c9a3c1295dd.jpg",
+      "category": "vpns-y-seguridad",
+      "sub": "VPNs Premium",
+      "available": true,
+      "categories": [
+        "vpns-y-seguridad"
+      ],
+      "subs": [
+        "VPNs Premium"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 45,
+      "homeOrder": 35,
+      "variants": []
+    },
+    {
+      "id": 37,
+      "name": "HolaVPN 1 Dispositivo",
+      "price": 2.5,
+      "max": 15,
+      "image": "./assets/9ad6b0162468c925.jpg",
+      "category": "vpns-y-seguridad",
+      "sub": "VPNs Premium",
+      "available": true,
+      "categories": [
+        "vpns-y-seguridad"
+      ],
+      "subs": [
+        "VPNs Premium"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 46,
+      "homeOrder": 36,
+      "variants": []
+    },
+    {
+      "id": 38,
+      "name": "IPTV Smarters Pro 1 Dispositivo",
+      "price": 2.8,
+      "max": 25,
+      "image": "./assets/ff268fb602d42174.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Televisión en Vivo / IPTV",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Televisión en Vivo / IPTV"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 47,
+      "homeOrder": 37,
+      "variants": []
+    },
+    {
+      "id": 39,
+      "name": "IPTV Smarters Pro 3 Meses 1 dispositivo (Oferta)",
+      "price": 5,
+      "max": 0,
+      "image": "./assets/ff268fb602d42174.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Televisión en Vivo / IPTV",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Televisión en Vivo / IPTV"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 48,
+      "homeOrder": 38,
+      "variants": []
+    },
+    {
+      "id": 40,
+      "name": "IPTV Smarters Pro 3 Meses Cuenta Completa",
+      "price": 8,
+      "max": 0,
+      "image": "./assets/0bac607938c7ac71.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Televisión en Vivo / IPTV",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Televisión en Vivo / IPTV"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 49,
+      "homeOrder": 39,
+      "variants": []
+    },
+    {
+      "id": 41,
+      "name": "IPTV Smarters Pro Cuenta Completa",
+      "price": 5,
+      "max": 40,
+      "image": "./assets/0bac607938c7ac71.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Televisión en Vivo / IPTV",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Televisión en Vivo / IPTV"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 50,
+      "homeOrder": 40,
+      "variants": []
+    },
+    {
+      "id": 42,
+      "name": "Max Estandar 1 Perfil – 1 Mes",
+      "price": 1.8,
+      "max": 0,
+      "image": "./assets/bb409de9df161f4e.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 51,
+      "homeOrder": 41,
+      "variants": []
+    },
+    {
+      "id": 43,
+      "name": "Max Estandar Cuenta Completa – 1 Mes",
+      "price": 4,
+      "max": 0,
+      "image": "./assets/bb409de9df161f4e.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 52,
+      "homeOrder": 42,
+      "variants": []
+    },
+    {
+      "id": 44,
+      "name": "Max Platino 1 Perfil – 1 Mes",
+      "price": 2,
+      "max": 0,
+      "image": "./assets/5e2950a33572835a.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 53,
+      "homeOrder": 43,
+      "variants": []
+    },
+    {
+      "id": 45,
+      "name": "Max Platino Cuenta Completa – 1 Mes",
+      "price": 6,
+      "max": 0,
+      "image": "./assets/5e2950a33572835a.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 54,
+      "homeOrder": 44,
+      "variants": []
+    },
+    {
+      "id": 46,
+      "name": "McAfee AntiVirus 1 dispositivo 1 año Clave GLOBAL",
+      "price": 20,
+      "max": 0,
+      "image": "./assets/88873913ad20db57.jpg",
+      "category": "licencias-de-software",
+      "sub": "Antivirus",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Antivirus"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 55,
+      "homeOrder": 45,
+      "variants": []
+    },
+    {
+      "id": 47,
+      "name": "Movistar Tv + Liga 1 Max 1 Perfil – 1 Mes",
+      "price": 5.6,
+      "max": 0,
+      "image": "./assets/aa30d109850e4f2f.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Deportes",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Deportes"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 56,
+      "homeOrder": 46,
+      "variants": []
+    },
+    {
+      "id": 48,
+      "name": "Movistar Tv + Liga 1 Max Cuenta Completa – 1 Mes",
+      "price": 10,
+      "max": 0,
+      "image": "./assets/aa30d109850e4f2f.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Deportes",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Deportes"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 57,
+      "homeOrder": 47,
+      "variants": []
+    },
+    {
+      "id": 49,
+      "name": "NordVPN tarjeta de regalo 24 Meses",
+      "price": 77,
+      "max": 0,
+      "image": "./assets/7fe06d0ecd64455a.jpg",
+      "category": "herramientas-online",
+      "sub": "Tarjetas de Regalo",
+      "available": true,
+      "categories": [
+        "herramientas-online"
+      ],
+      "subs": [
+        "Tarjetas de Regalo"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 59,
+      "homeOrder": 48,
+      "variants": []
+    },
+    {
+      "id": 50,
+      "name": "Norton 360 Premium 1 Dispositivo 1 Año",
+      "price": 20,
+      "max": 0,
+      "image": "./assets/a5668d02100a7a31.png",
+      "category": "licencias-de-software",
+      "sub": "Ofimática",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Ofimática"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 60,
+      "homeOrder": 49,
+      "variants": []
+    },
+    {
+      "id": 51,
+      "name": "NorVPN 1 Dispositivo",
+      "price": 3,
+      "max": 20,
+      "image": "./assets/f9d5ceda8bc270f6.jpg",
+      "category": "vpns-y-seguridad",
+      "sub": "VPNs Premium",
+      "available": true,
+      "categories": [
+        "vpns-y-seguridad"
+      ],
+      "subs": [
+        "VPNs Premium"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 61,
+      "homeOrder": 50,
+      "variants": []
+    },
+    {
+      "id": 52,
+      "name": "PANEL – FLU TV",
+      "price": 95,
+      "max": 2200,
+      "image": "./assets/9b4f29f3bc7e41a6.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Televisión en Vivo / IPTV",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Televisión en Vivo / IPTV"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 62,
+      "homeOrder": 51,
+      "variants": []
+    },
+    {
+      "id": 53,
+      "name": "Panel – IPTV Smarters Pro",
+      "price": 30,
+      "max": 1300,
+      "image": "./assets/7e5bdd0e6af57f72.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Televisión en Vivo / IPTV",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Televisión en Vivo / IPTV"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 63,
+      "homeOrder": 52,
+      "variants": []
+    },
+    {
+      "id": 54,
+      "name": "PANEL – OLEA TV",
+      "price": 63,
+      "max": 1900,
+      "image": "./assets/ae8677c72b263d9c.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Televisión en Vivo / IPTV",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Televisión en Vivo / IPTV"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 64,
+      "homeOrder": 53,
+      "variants": []
+    },
+    {
+      "id": 55,
+      "name": "Panel – STEL.TV",
+      "price": 45,
+      "max": 2000,
+      "image": "./assets/862358539c660ae8.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Televisión en Vivo / IPTV",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Televisión en Vivo / IPTV"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 65,
+      "homeOrder": 54,
+      "variants": []
+    },
+    {
+      "id": 56,
+      "name": "PANEL – T.L",
+      "price": 84,
+      "max": 2100,
+      "image": "./assets/2a48d8beb14073d9.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Televisión en Vivo / IPTV",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Televisión en Vivo / IPTV"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 66,
+      "homeOrder": 55,
+      "variants": []
+    },
+    {
+      "id": 57,
+      "name": "Paramount 1 Perfil – 1 Mes",
+      "price": 1.8,
+      "max": 0,
+      "image": "./assets/20c91b1a37159c5f.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 67,
+      "homeOrder": 56,
+      "variants": []
+    },
+    {
+      "id": 58,
+      "name": "Paramount Cuenta Completa – 1 Mes",
+      "price": 5,
+      "max": 0,
+      "image": "./assets/20c91b1a37159c5f.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 68,
+      "homeOrder": 57,
+      "variants": []
+    },
+    {
+      "id": 59,
+      "name": "Prime Video 1 Perfil – 1 Mes",
+      "price": 1.8,
+      "max": 0,
+      "image": "./assets/32cc8cac7cff20f1.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 70,
+      "homeOrder": 58,
+      "variants": []
+    },
+    {
+      "id": 60,
+      "name": "Prime Video Global Cuenta Completa – 1 Mes",
+      "price": 4.5,
+      "max": 0,
+      "image": "./assets/32cc8cac7cff20f1.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 71,
+      "homeOrder": 59,
+      "variants": []
+    },
+    {
+      "id": 61,
+      "name": "Recarga Free Fire – Latam",
+      "price": 1,
+      "max": 40,
+      "image": "./assets/112c647be22719a3.jpg",
+      "category": "gaming",
+      "sub": "Juegos Digitales",
+      "available": true,
+      "categories": [
+        "gaming"
+      ],
+      "subs": [
+        "Juegos Digitales"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 72,
+      "homeOrder": 60,
+      "variants": []
+    },
+    {
+      "id": 62,
+      "name": "Seguidores TikTok",
+      "price": 2,
+      "max": 15,
+      "image": "./assets/b572439727087f2e.jpg",
+      "category": "herramientas-online",
+      "sub": "Marketing Digital",
+      "available": true,
+      "categories": [
+        "herramientas-online",
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Marketing Digital"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 73,
+      "homeOrder": 61,
+      "variants": []
+    },
+    {
+      "id": 63,
+      "name": "Spotify Premium Plan Individual 1 Mes",
+      "price": 3.5,
+      "max": 0,
+      "image": "./assets/b31b7bafcec6ec35.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Música",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Música"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 75,
+      "homeOrder": 62,
+      "variants": []
+    },
+    {
+      "id": 64,
+      "name": "Surfshark 1 dispositivo",
+      "price": 2.5,
+      "max": 18,
+      "image": "./assets/48428698d3bdbcca.jpg",
+      "category": "vpns-y-seguridad",
+      "sub": "VPNs Premium",
+      "available": true,
+      "categories": [
+        "vpns-y-seguridad"
+      ],
+      "subs": [
+        "VPNs Premium"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 77,
+      "homeOrder": 63,
+      "variants": []
+    },
+    {
+      "id": 65,
+      "name": "Tidal Premium Plan Familiar",
+      "price": 8,
+      "max": 60,
+      "image": "./assets/5c3968582d26161a.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Música",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Música"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 79,
+      "homeOrder": 64,
+      "variants": []
+    },
+    {
+      "id": 66,
+      "name": "Tidal Premium Plan Individual",
+      "price": 2,
+      "max": 20,
+      "image": "./assets/50c1b6ece754afe4.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Música",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Música"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 80,
+      "homeOrder": 65,
+      "variants": []
+    },
+    {
+      "id": 67,
+      "name": "Tv Mágico",
+      "price": 5,
+      "max": 45,
+      "image": "./assets/7cd6bd2d1708df07.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Televisión en Vivo / IPTV",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Televisión en Vivo / IPTV"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 81,
+      "homeOrder": 66,
+      "variants": []
+    },
+    {
+      "id": 68,
+      "name": "Vix Premium 1 Perfil – 1 Mes",
+      "price": 1.7,
+      "max": 0,
+      "image": "./assets/41fda971a8944fa5.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 82,
+      "homeOrder": 67,
+      "variants": []
+    },
+    {
+      "id": 69,
+      "name": "Vix Premium Cuenta Completa – 1 Mes",
+      "price": 3.5,
+      "max": 0,
+      "image": "./assets/41fda971a8944fa5.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 83,
+      "homeOrder": 68,
+      "variants": []
+    },
+    {
+      "id": 70,
+      "name": "Vix Premium Cuenta Completa – 12 Meses",
+      "price": 15,
+      "max": 0,
+      "image": "./assets/41fda971a8944fa5.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 84,
+      "homeOrder": 69,
+      "variants": []
+    },
+    {
+      "id": 71,
+      "name": "Windows 10 Pro de por vida",
+      "price": 15,
+      "max": 0,
+      "image": "./assets/2cf51fd878d0b249.jpg",
+      "category": "licencias-de-software",
+      "sub": "Ofimática",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Ofimática"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 85,
+      "homeOrder": 70,
+      "variants": []
+    },
+    {
+      "id": 72,
+      "name": "Windows 11 Pro de por vida",
+      "price": 15,
+      "max": 0,
+      "image": "./assets/cf12f00faedaa3ca.jpg",
+      "category": "licencias-de-software",
+      "sub": "Ofimática",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Ofimática"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 86,
+      "homeOrder": 71,
+      "variants": []
+    },
+    {
+      "id": 73,
+      "name": "Crunchyroll Mega Fan Cuenta Completa | 1 Mes",
+      "price": 4,
+      "max": 0,
+      "image": "./assets/18ab76ceb50d4fbb.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": false,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": false,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 3,
+      "homeOrder": 72,
+      "variants": []
+    },
+    {
+      "id": 74,
+      "name": "Adobe Creative Cloud 3 Meses Privado – Oferta",
+      "price": 30,
+      "max": 0,
+      "image": "./assets/f62fe28d500e2b59.jpg",
+      "category": "licencias-de-software",
+      "sub": "Diseño Gráfico",
+      "available": false,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Diseño Gráfico"
+      ],
+      "visible": true,
+      "featured": false,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 8,
+      "homeOrder": 73,
+      "variants": []
+    },
+    {
+      "id": 75,
+      "name": "Adobe Creative Cloud Cuenta Compartida 1 dispositivo",
+      "price": 8,
+      "max": 40,
+      "image": "./assets/f62fe28d500e2b59.jpg",
+      "category": "herramientas-online",
+      "sub": "Diseño y Creatividad",
+      "available": false,
+      "categories": [
+        "herramientas-online"
+      ],
+      "subs": [
+        "Diseño y Creatividad"
+      ],
+      "visible": true,
+      "featured": false,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 9,
+      "homeOrder": 74,
+      "variants": []
+    },
+    {
+      "id": 76,
+      "name": "Adobe Creative Cloud Cuenta Privada",
+      "price": 15,
+      "max": 70,
+      "image": "./assets/f62fe28d500e2b59.jpg",
+      "category": "herramientas-online",
+      "sub": "Diseño y Creatividad",
+      "available": false,
+      "categories": [
+        "herramientas-online"
+      ],
+      "subs": [
+        "Diseño y Creatividad"
+      ],
+      "visible": true,
+      "featured": false,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 10,
+      "homeOrder": 75,
+      "variants": []
+    },
+    {
+      "id": 77,
+      "name": "Apple Music Plan Individual – 3 Meses",
+      "price": 7,
+      "max": 0,
+      "image": "./assets/5f50652b3ef45a8f.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Música",
+      "available": false,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Música"
+      ],
+      "visible": true,
+      "featured": false,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 13,
+      "homeOrder": 76,
+      "variants": []
+    },
+    {
+      "id": 78,
+      "name": "Chat Gpt Plus 1 mes | Código promocional",
+      "price": 14,
+      "max": 0,
+      "image": "./assets/0a161e4c49163ebd.jpg",
+      "category": "licencias-de-software",
+      "sub": "Inteligencia Artificial",
+      "available": false,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": false,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 20,
+      "homeOrder": 77,
+      "variants": []
+    },
+    {
+      "id": 79,
+      "name": "Chat Gpt Plus 1 mes | Cuenta Privada",
+      "price": 15,
+      "max": 0,
+      "image": "./assets/0a161e4c49163ebd.jpg",
+      "category": "licencias-de-software",
+      "sub": "Inteligencia Artificial",
+      "available": false,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": false,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 21,
+      "homeOrder": 78,
+      "variants": []
+    },
+    {
+      "id": 80,
+      "name": "ChatGPT-5 – 1 Mes 1 Dispositivo",
+      "price": 4.5,
+      "max": 0,
+      "image": "./assets/0a161e4c49163ebd.jpg",
+      "category": "licencias-de-software",
+      "sub": "Inteligencia Artificial",
+      "available": false,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": false,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 22,
+      "homeOrder": 79,
+      "variants": []
+    },
+    {
+      "id": 81,
+      "name": "Elevenlabs Creator Cuenta Privada 3 Meses",
+      "price": 25,
+      "max": 0,
+      "image": "./assets/5f9b67f95832f350.jpg",
+      "category": "licencias-de-software",
+      "sub": "Inteligencia Artificial",
+      "available": false,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": false,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 39,
+      "homeOrder": 80,
+      "variants": []
+    },
+    {
+      "id": 82,
+      "name": "Gemini Pro Familiar 1 Mes",
+      "price": 5,
+      "max": 0,
+      "image": "./assets/1b293b9844f332fd.jpg",
+      "category": "licencias-de-software",
+      "sub": "Inteligencia Artificial",
+      "available": false,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": false,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 43,
+      "homeOrder": 81,
+      "variants": []
+    },
+    {
+      "id": 83,
+      "name": "Netflix Premium Cuenta Completa – 1 Mes",
+      "price": 15,
+      "max": 0,
+      "image": "./assets/f34bd9c2f3cc3665.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": false,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": false,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 58,
+      "homeOrder": 82,
+      "variants": []
+    },
+    {
+      "id": 84,
+      "name": "Perplexity Pro",
+      "price": 3,
+      "max": 20,
+      "image": "./assets/9fa449fd90b44e80.jpg",
+      "category": "licencias-de-software",
+      "sub": "Inteligencia Artificial",
+      "available": false,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": false,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 69,
+      "homeOrder": 83,
+      "variants": []
+    },
+    {
+      "id": 85,
+      "name": "Spotify Premium Plan Individual",
+      "price": 4,
+      "max": 20,
+      "image": "./assets/b31b7bafcec6ec35.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Música",
+      "available": false,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Música"
+      ],
+      "visible": true,
+      "featured": false,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 74,
+      "homeOrder": 84,
+      "variants": []
+    },
+    {
+      "id": 86,
+      "name": "Spotify Premium Plan Individual 3 Meses",
+      "price": 6,
+      "max": 0,
+      "image": "./assets/b31b7bafcec6ec35.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Música",
+      "available": false,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Música"
+      ],
+      "visible": true,
+      "featured": false,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 76,
+      "homeOrder": 85,
+      "variants": []
+    },
+    {
+      "id": 87,
+      "name": "Tarjetas Free Fire – Latam",
+      "price": 0.55,
+      "max": 9.5,
+      "image": "./assets/b9600b2b6c3af006.jpg",
+      "category": "gaming",
+      "sub": "Juegos Digitales",
+      "available": false,
+      "categories": [
+        "gaming"
+      ],
+      "subs": [
+        "Juegos Digitales"
+      ],
+      "visible": true,
+      "featured": false,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 78,
+      "homeOrder": 86,
+      "variants": []
+    },
+    {
+      "id": 88,
+      "name": "YouTube Premium Plan Familiar – 1 Mes",
+      "price": 5,
+      "max": 0,
+      "image": "./assets/a8e69d55ba6ec604.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Música",
+      "available": false,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Música",
+        "Video"
+      ],
+      "visible": true,
+      "featured": false,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 87,
+      "homeOrder": 87,
+      "variants": []
+    },
+    {
+      "id": 89,
+      "name": "YouTube Premium Plan Individual – 1 Mes",
+      "price": 2.5,
+      "max": 0,
+      "image": "./assets/62470b71e9a70d8c.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Música",
+      "available": false,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Música",
+        "Video"
+      ],
+      "visible": true,
+      "featured": false,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 88,
+      "homeOrder": 88,
+      "variants": []
+    },
+    {
+      "id": 90,
+      "name": "YouTube Premium Plan Individual – 3 Meses",
+      "price": 5.5,
+      "max": 0,
+      "image": "./assets/036e7af24eb32710.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Música",
+      "available": false,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Música",
+        "Video"
+      ],
+      "visible": true,
+      "featured": false,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "order": 89,
+      "homeOrder": 89,
+      "variants": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "cuentas-streaming",
+      "name": "Cuentas Streaming",
+      "image": "./assets/00bbb9f599ac7af3.jpg",
+      "subs": [
+        "Deportes",
+        "Música",
+        "Televisión en Vivo / IPTV",
+        "Video"
+      ],
+      "homeSubs": [
+        "Deportes",
+        "Música",
+        "Televisión en Vivo / IPTV",
+        "Video"
+      ],
+      "visible": true,
+      "order": 0
+    },
+    {
+      "id": "educacion-y-cursos",
+      "name": "Educación y Cursos",
+      "image": "./assets/eab25a1a41fa8867.jpg",
+      "subs": [
+        "Activación de Licencias",
+        "Estrategias de Negocio",
+        "Creación de Cuentas",
+        "Venta de Plataformas",
+        "Gestión de Servicios"
+      ],
+      "homeSubs": [],
+      "visible": true,
+      "order": 1
+    },
+    {
+      "id": "gaming",
+      "name": "Gaming",
+      "image": "./assets/8dc91323539a0d96.jpg",
+      "subs": [
+        "Juegos Digitales",
+        "Suscripciones de Consolas",
+        "Tarjetas y Monedas Virtuales"
+      ],
+      "homeSubs": [
+        "Juegos Digitales"
+      ],
+      "visible": true,
+      "order": 2
+    },
+    {
+      "id": "herramientas-online",
+      "name": "Herramientas Online",
+      "image": "./assets/d6e22453abb31f18.jpg",
+      "subs": [
+        "Almacenamiento en la Nube",
+        "Diseño y Creatividad",
+        "Marketing Digital",
+        "Tarjetas de Regalo"
+      ],
+      "homeSubs": [
+        "Diseño y Creatividad",
+        "Marketing Digital",
+        "Tarjetas de Regalo"
+      ],
+      "visible": true,
+      "order": 3
+    },
+    {
+      "id": "licencias-de-software",
+      "name": "Licencias de Software",
+      "image": "./assets/3f142740afeb5005.jpg",
+      "subs": [
+        "Antivirus",
+        "Diseño Gráfico",
+        "Edición de Video",
+        "Inteligencia Artificial",
+        "Ofimática",
+        "Otros Programas"
+      ],
+      "homeSubs": [
+        "Antivirus",
+        "Diseño Gráfico",
+        "Edición de Video",
+        "Inteligencia Artificial",
+        "Ofimática",
+        "Otros Programas"
+      ],
+      "visible": true,
+      "order": 4
+    },
+    {
+      "id": "vpns-y-seguridad",
+      "name": "VPNs y Seguridad",
+      "image": "./assets/09ef89cca4217642.jpg",
+      "subs": [
+        "VPNs Premium",
+        "Antivirus"
+      ],
+      "homeSubs": [
+        "VPNs Premium"
+      ],
+      "visible": true,
+      "order": 5
+    }
+  ],
+  "banners": [
+    {
+      "id": "banner-1",
+      "title": "Cuentas de Streaming y Licencias Digitales en Perú",
+      "description": "Activa tu mundo digital con Netflix, Disney+, Windows, Office y más, con entrega inmediata y precios accesibles.",
+      "image": "./assets/d3bf8f9b24e86f2a.jpg",
+      "buttonText": "Ver Productos",
+      "buttonLink": "#productos",
+      "visible": true,
+      "order": 0
+    },
+    {
+      "id": "banner-2",
+      "title": "Cuentas de Streaming y Licencias Digitales en Perú",
+      "description": "Activa tu mundo digital con Netflix, Disney+, Windows, Office y más, con entrega inmediata y precios accesibles.",
+      "image": "./assets/d67743c5b95998fc.webp",
+      "buttonText": "Ver Productos",
+      "buttonLink": "#productos",
+      "visible": true,
+      "order": 1
+    }
+  ],
+  "settings": {
+    "name": "GavidiaStreaming",
+    "logo": "./assets/26d3c6220315cfb2.png",
+    "favicon": "./assets/dbb07b5a2d23926b.png",
+    "currency": "USD",
+    "accentColor": "#c52127",
+    "backgroundColor": "#262625",
+    "headerColor": "#333333",
+    "footerColor": "#232322",
+    "pageTitle": "Cuentas de Streaming y Licencias Digitales en Perú",
+    "metaDescription": "Explora cuentas de streaming, herramientas online y licencias digitales en GavidiaStreaming.",
+    "categoryTitle": "Categorías populares",
+    "featuredTitle": "PRODUCTOS PROMOCIONADOS",
+    "aboutTitle": "ACERCA DE NOSOTROS",
+    "aboutHeading": "Compra Cuentas de Streaming y Licencias Digitales con Entrega Inmediata en Perú",
+    "aboutText": "En GAVIDIASTREAMING te ofrecemos una amplia variedad de cuentas de streaming baratas y seguras como Netflix Premium compartida estable, Disney+, HBO Max, Spotify Premium familiar, así como licencias digitales originales de Windows 11 Pro, Office 2021 Profesional Plus, Adobe Creative Cloud y más. Con más de 3 años de experiencia, garantizamos estabilidad, soporte personalizado y precios accesibles, enviando nuestros servicios a todo el Perú y diferentes países.\nDisfruta de tu entretenimiento, trabajo y estudio sin límites, con la confianza de una marca comprometida con la calidad.",
+    "footerText": "Somos una empresa con 3 años de trayectoria, trabajando y evolucionando para poder expandirnos a todos los países, dando a conocer nuestra marca. Al mismo tiempo, buscamos apoyar e incentivar a quienes están comenzando en este negocio.",
+    "copyright": "Copyright © 2025 GavidiaStreaming | Todos los derechos reservados.",
+    "contactTitle": "Contactanos",
+    "contactText": "Estamos aquí para ayudarte con tus cuentas de streaming y licencias digitales.",
+    "phone": "+51 917 628 932",
+    "phoneSecondary": "+51 916 376 483",
+    "whatsapp": "https://wa.me/51917628932",
+    "whatsappSecondary": "https://wa.me/51916376483",
+    "instagram": "https://www.instagram.com/gavidiastreaming2",
+    "tiktok": "https://www.tiktok.com/@gavidiastreaming",
+    "whatsappCommunity": "https://chat.whatsapp.com/IZtAMSQnpgfDPRfnBbQyJ7?mode=ac_t",
+    "telegramCommunity": "https://t.me/+9t35Lhyr0QU4ZGEx",
+    "distributorUrl": "https://wa.me/51917628932",
+    "accountUrl": "https://gavidiastreaming.com/mi-cuenta/",
+    "paymentImage": "./assets/5a6e1c0e76dc4084.webp",
+    "showCategories": true,
+    "showFeatured": true,
+    "showAbout": true
+  }
+}
