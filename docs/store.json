@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 9,
-  "updatedAt": "2026-09-28T05:22:16.822Z",
+  "revision": 10,
+  "updatedAt": "2026-09-28T05:30:10.716Z",
   "products": [
     {
       "id": 1,
@@ -2060,7 +2060,7 @@
     },
     {
       "id": 80,
-      "name": "ChatGPT-5 – 1 Mes 1 Dispositivo",
+      "name": "ChatGPT-5 | 1 Mes 1 Dispositivo",
       "price": 1,
       "max": 0,
       "image": "./assets/0a161e4c49163ebd.jpg",
@@ -2349,7 +2349,7 @@
     },
     {
       "id": 91,
-      "name": "Claude API — Paquetes de tokens",
+      "name": "Claude API | Paquetes de tokens",
       "price": 4,
       "max": 0,
       "image": "./assets/claude-api.png",
