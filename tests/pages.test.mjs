@@ -47,7 +47,7 @@ test('public snapshot removes hidden products, banners and extension fields with
   hiddenCategory.secret = 'category-secret';
   input.categories.find(category => category.id === 'educacion-y-cursos').visible = false;
   const result = publicSnapshot(input);
-  assert.equal(result.products.length,89);
+  assert.equal(result.products.length,seed.products.length-1);
   assert.equal(result.products.some(product => product.id === input.products[0].id),false);
   assert.equal(result.products.some(product => product.id === input.products[1].id),true);
   assert.deepEqual(result.categories.find(category => category.id === hiddenCategory.id), {id:hiddenCategory.id,name:hiddenCategory.name,visible:false});
@@ -79,7 +79,7 @@ test('static build works under a repository path, exports only referenced media 
   const originalApp = await readFile(path.join(directory,'dist','app.js'),'utf8');
   const result = await buildPages({projectDir:directory});
   const listed = await fileList(result.outputDir);
-  assert.equal(result.products,89);
+  assert.equal(result.products,seed.products.length-1);
   for (const expected of ['index.html','app.js','styles.css','store-model.js','store.json','.nojekyll','assets/placeholder.svg','uploads/' + uploadName]) assert.ok(listed.includes(expected),expected);
   assert.equal(listed.some(name => /admin|manifest|backup|seed|oculto|sin-usar/.test(name)),false);
   const app = await readFile(path.join(result.outputDir,'app.js'),'utf8');
@@ -109,7 +109,7 @@ test('seed fallback is supported and invalid uploads fail before replacing an ex
   const directory = await fixture(t);
   await buildPages({projectDir:directory});
   const generated = await readFile(path.join(directory,'docs','store.json'),'utf8');
-  assert.equal(JSON.parse(generated).products.length,90);
+  assert.equal(JSON.parse(generated).products.length,seed.products.length);
   const current = structuredClone(seed);
   current.products[0].image = '/uploads/imagen.png';
   await writeFile(path.join(directory,'data','store.json'),JSON.stringify(current));

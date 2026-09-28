@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "revision": 8,
-  "updatedAt": "2026-09-28T00:12:36.544Z",
+  "revision": 9,
+  "updatedAt": "2026-09-28T05:22:16.822Z",
   "products": [
     {
       "id": 1,
       "name": "Duolingo Plus",
-      "price": 5,
-      "max": 40,
+      "price": 1,
+      "max": 0,
       "image": "./assets/665861b26dabf201.jpg",
       "category": "licencias-de-software",
       "sub": "Otros Programas",
@@ -32,7 +32,7 @@
     {
       "id": 2,
       "name": "Microsoft Office 365 – 12 Meses Pro Privado",
-      "price": 14,
+      "price": 1,
       "max": 0,
       "image": "./assets/c6864ea819ab6749.jpg",
       "category": "licencias-de-software",
@@ -58,7 +58,7 @@
     {
       "id": 3,
       "name": "Netflix Premium 1 Perfil – 1 Mes",
-      "price": 4.5,
+      "price": 1,
       "max": 0,
       "image": "./assets/f34bd9c2f3cc3665.jpg",
       "category": "cuentas-streaming",
@@ -84,8 +84,8 @@
     {
       "id": 4,
       "name": "1 DISPOSITIVO – FLU TV",
-      "price": 3.5,
-      "max": 30,
+      "price": 1,
+      "max": 0,
       "image": "./assets/47f76e22452eaf75.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
@@ -110,8 +110,8 @@
     {
       "id": 5,
       "name": "1 DISPOSITIVO – OLEA TV",
-      "price": 3,
-      "max": 28,
+      "price": 1,
+      "max": 0,
       "image": "./assets/e0ed6a796af1dba7.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
@@ -136,7 +136,7 @@
     {
       "id": 6,
       "name": "1 DISPOSITIVO – PLE – 1 MES",
-      "price": 2.8,
+      "price": 1,
       "max": 0,
       "image": "./assets/b2487791b4697250.jpg",
       "category": "cuentas-streaming",
@@ -162,8 +162,8 @@
     {
       "id": 7,
       "name": "1 DISPOSITIVO – STEL.TV",
-      "price": 3,
-      "max": 28,
+      "price": 1,
+      "max": 0,
       "image": "./assets/0f5d14c01ef3173e.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
@@ -188,7 +188,7 @@
     {
       "id": 8,
       "name": "Adobe Express Premium – Clave de suscripción de 12 meses",
-      "price": 50,
+      "price": 1,
       "max": 0,
       "image": "./assets/2fe9a3640f204d4c.jpg",
       "category": "licencias-de-software",
@@ -214,8 +214,8 @@
     {
       "id": 9,
       "name": "Adobe Express Premium – Cuenta Privada Acceso",
-      "price": 7,
-      "max": 50,
+      "price": 1,
+      "max": 0,
       "image": "./assets/2fe9a3640f204d4c.jpg",
       "category": "licencias-de-software",
       "sub": "Diseño Gráfico",
@@ -240,7 +240,7 @@
     {
       "id": 10,
       "name": "Apple Tv 1 Dispositivo – 1 Mes",
-      "price": 2.5,
+      "price": 1,
       "max": 0,
       "image": "./assets/963b7c065ef7df59.jpg",
       "category": "cuentas-streaming",
@@ -266,8 +266,8 @@
     {
       "id": 11,
       "name": "Apple Tv Cuenta Completa",
-      "price": 4,
-      "max": 10,
+      "price": 1,
+      "max": 0,
       "image": "./assets/963b7c065ef7df59.jpg",
       "category": "cuentas-streaming",
       "sub": "Video",
@@ -292,8 +292,8 @@
     {
       "id": 12,
       "name": "Autodesk Apps Collection 2026 (PC, Mac) (1 User, Privado)",
-      "price": 10,
-      "max": 40,
+      "price": 1,
+      "max": 0,
       "image": "./assets/6284b0cc2ad52492.jpg",
       "category": "licencias-de-software",
       "sub": "Diseño Gráfico",
@@ -318,8 +318,8 @@
     {
       "id": 13,
       "name": "CANVA PRO A SU CORREO",
-      "price": 6,
-      "max": 16,
+      "price": 1,
+      "max": 0,
       "image": "./assets/759632789d579582.jpg",
       "category": "licencias-de-software",
       "sub": "Diseño Gráfico",
@@ -344,7 +344,7 @@
     {
       "id": 14,
       "name": "CapCut Pro 1 Dispositivo solo celular – 1 Mes",
-      "price": 5,
+      "price": 1,
       "max": 0,
       "image": "./assets/93b46870e6321d82.jpg",
       "category": "licencias-de-software",
@@ -370,7 +370,7 @@
     {
       "id": 15,
       "name": "CapCut Pro Cuenta Completa – 1 Mes",
-      "price": 8,
+      "price": 1,
       "max": 0,
       "image": "./assets/93b46870e6321d82.jpg",
       "category": "licencias-de-software",
@@ -396,7 +396,7 @@
     {
       "id": 16,
       "name": "Claro Video + Liga 1 max Cuenta Completa – 1 Mes",
-      "price": 8,
+      "price": 1,
       "max": 0,
       "image": "./assets/81281a0a8271e1c3.jpg",
       "category": "cuentas-streaming",
@@ -422,7 +422,7 @@
     {
       "id": 17,
       "name": "Claro Video + Liga 1 max 1 Perfil – 1 Mes",
-      "price": 4.5,
+      "price": 1,
       "max": 0,
       "image": "./assets/81281a0a8271e1c3.jpg",
       "category": "cuentas-streaming",
@@ -448,7 +448,7 @@
     {
       "id": 18,
       "name": "Crunchyroll Mega Fan 1 Perfil – 1 Mes",
-      "price": 1.7,
+      "price": 1,
       "max": 0,
       "image": "./assets/18ab76ceb50d4fbb.jpg",
       "category": "cuentas-streaming",
@@ -474,7 +474,7 @@
     {
       "id": 19,
       "name": "Crunchyroll Mega Fan Cuenta Completa | 12 Meses",
-      "price": 30,
+      "price": 1,
       "max": 0,
       "image": "./assets/18ab76ceb50d4fbb.jpg",
       "category": "cuentas-streaming",
@@ -500,8 +500,8 @@
     {
       "id": 20,
       "name": "CUENTAS – FLU TV",
-      "price": 6,
-      "max": 55,
+      "price": 1,
+      "max": 0,
       "image": "./assets/c0b374f442980c89.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
@@ -526,8 +526,8 @@
     {
       "id": 21,
       "name": "CUENTAS – STEL.TV",
-      "price": 6,
-      "max": 45,
+      "price": 1,
+      "max": 0,
       "image": "./assets/f12bc44b54101850.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
@@ -552,8 +552,8 @@
     {
       "id": 22,
       "name": "CUENTAS – T.L",
-      "price": 6,
-      "max": 42,
+      "price": 1,
+      "max": 0,
       "image": "./assets/1cf882cb74b7a2e2.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
@@ -578,8 +578,8 @@
     {
       "id": 23,
       "name": "CUENTAS – OLEA TV",
-      "price": 6,
-      "max": 50,
+      "price": 1,
+      "max": 0,
       "image": "./assets/ce4ff94c7ee16107.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
@@ -604,7 +604,7 @@
     {
       "id": 24,
       "name": "CUENTAS – PLE 1 MES",
-      "price": 4.5,
+      "price": 1,
       "max": 0,
       "image": "./assets/ac155ece12b7c1ca.jpg",
       "category": "cuentas-streaming",
@@ -630,8 +630,8 @@
     {
       "id": 25,
       "name": "Deezer Premium Plan individual",
-      "price": 2.3,
-      "max": 15,
+      "price": 1,
+      "max": 0,
       "image": "./assets/6fc9db5701ac0c83.jpg",
       "category": "cuentas-streaming",
       "sub": "Música",
@@ -656,7 +656,7 @@
     {
       "id": 26,
       "name": "Directv Go + Liga 1 max – 1 Dispositivo 1 Mes",
-      "price": 7,
+      "price": 1,
       "max": 0,
       "image": "./assets/0976bc9df9664854.jpg",
       "category": "cuentas-streaming",
@@ -682,7 +682,7 @@
     {
       "id": 27,
       "name": "Directv Go+ Liga 1 max Cuenta Completa – 1 Mes",
-      "price": 13,
+      "price": 1,
       "max": 0,
       "image": "./assets/0976bc9df9664854.jpg",
       "category": "cuentas-streaming",
@@ -708,7 +708,7 @@
     {
       "id": 28,
       "name": "Disney Estándar 1 Perfil – 1 Mes",
-      "price": 2,
+      "price": 1,
       "max": 0,
       "image": "./assets/597822d1c2e22666.jpg",
       "category": "cuentas-streaming",
@@ -734,7 +734,7 @@
     {
       "id": 29,
       "name": "Disney Estándar Cuenta Completa – 1 Mes",
-      "price": 7,
+      "price": 1,
       "max": 0,
       "image": "./assets/597822d1c2e22666.jpg",
       "category": "cuentas-streaming",
@@ -760,7 +760,7 @@
     {
       "id": 30,
       "name": "Disney Premium 1 Perfil – 1 Mes",
-      "price": 2.8,
+      "price": 1,
       "max": 0,
       "image": "./assets/02fa921fa98b2b8c.jpg",
       "category": "cuentas-streaming",
@@ -786,7 +786,7 @@
     {
       "id": 31,
       "name": "Disney Premium Cuenta Completa – 1 Mes",
-      "price": 10,
+      "price": 1,
       "max": 0,
       "image": "./assets/02fa921fa98b2b8c.jpg",
       "category": "cuentas-streaming",
@@ -812,7 +812,7 @@
     {
       "id": 32,
       "name": "ESET Security Essential 1 dispositivo 1 año Clave GLOBAL",
-      "price": 25,
+      "price": 1,
       "max": 0,
       "image": "./assets/992b721dcd31cab6.jpg",
       "category": "licencias-de-software",
@@ -838,8 +838,8 @@
     {
       "id": 33,
       "name": "ExpressVPN 1 Dispositivo solo Celular",
-      "price": 3,
-      "max": 22,
+      "price": 1,
+      "max": 0,
       "image": "./assets/71f53647e2835791.jpg",
       "category": "vpns-y-seguridad",
       "sub": "VPNs Premium",
@@ -864,8 +864,8 @@
     {
       "id": 34,
       "name": "ExpressVPN 1 Dispositivo solo PC",
-      "price": 3,
-      "max": 20,
+      "price": 1,
+      "max": 0,
       "image": "./assets/71f53647e2835791.jpg",
       "category": "vpns-y-seguridad",
       "sub": "VPNs Premium",
@@ -890,8 +890,8 @@
     {
       "id": 35,
       "name": "GIF CARD 1 MES – T.L",
-      "price": 3,
-      "max": 6,
+      "price": 1,
+      "max": 0,
       "image": "./assets/18d5388555058495.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
@@ -916,7 +916,7 @@
     {
       "id": 36,
       "name": "HMA VPN 1 Dispositivo 1 Año",
-      "price": 20,
+      "price": 1,
       "max": 0,
       "image": "./assets/97fe1c9a3c1295dd.jpg",
       "category": "vpns-y-seguridad",
@@ -942,8 +942,8 @@
     {
       "id": 37,
       "name": "HolaVPN 1 Dispositivo",
-      "price": 2.5,
-      "max": 15,
+      "price": 1,
+      "max": 0,
       "image": "./assets/9ad6b0162468c925.jpg",
       "category": "vpns-y-seguridad",
       "sub": "VPNs Premium",
@@ -968,8 +968,8 @@
     {
       "id": 38,
       "name": "IPTV Smarters Pro 1 Dispositivo",
-      "price": 2.8,
-      "max": 25,
+      "price": 1,
+      "max": 0,
       "image": "./assets/ff268fb602d42174.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
@@ -994,7 +994,7 @@
     {
       "id": 39,
       "name": "IPTV Smarters Pro 3 Meses 1 dispositivo (Oferta)",
-      "price": 5,
+      "price": 1,
       "max": 0,
       "image": "./assets/ff268fb602d42174.jpg",
       "category": "cuentas-streaming",
@@ -1020,7 +1020,7 @@
     {
       "id": 40,
       "name": "IPTV Smarters Pro 3 Meses Cuenta Completa",
-      "price": 8,
+      "price": 1,
       "max": 0,
       "image": "./assets/0bac607938c7ac71.jpg",
       "category": "cuentas-streaming",
@@ -1046,8 +1046,8 @@
     {
       "id": 41,
       "name": "IPTV Smarters Pro Cuenta Completa",
-      "price": 5,
-      "max": 40,
+      "price": 1,
+      "max": 0,
       "image": "./assets/0bac607938c7ac71.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
@@ -1072,7 +1072,7 @@
     {
       "id": 42,
       "name": "Max Estandar 1 Perfil – 1 Mes",
-      "price": 1.8,
+      "price": 1,
       "max": 0,
       "image": "./assets/bb409de9df161f4e.jpg",
       "category": "cuentas-streaming",
@@ -1098,7 +1098,7 @@
     {
       "id": 43,
       "name": "Max Estandar Cuenta Completa – 1 Mes",
-      "price": 4,
+      "price": 1,
       "max": 0,
       "image": "./assets/bb409de9df161f4e.jpg",
       "category": "cuentas-streaming",
@@ -1124,7 +1124,7 @@
     {
       "id": 44,
       "name": "Max Platino 1 Perfil – 1 Mes",
-      "price": 2,
+      "price": 1,
       "max": 0,
       "image": "./assets/5e2950a33572835a.jpg",
       "category": "cuentas-streaming",
@@ -1150,7 +1150,7 @@
     {
       "id": 45,
       "name": "Max Platino Cuenta Completa – 1 Mes",
-      "price": 6,
+      "price": 1,
       "max": 0,
       "image": "./assets/5e2950a33572835a.jpg",
       "category": "cuentas-streaming",
@@ -1176,7 +1176,7 @@
     {
       "id": 46,
       "name": "McAfee AntiVirus 1 dispositivo 1 año Clave GLOBAL",
-      "price": 20,
+      "price": 1,
       "max": 0,
       "image": "./assets/88873913ad20db57.jpg",
       "category": "licencias-de-software",
@@ -1202,7 +1202,7 @@
     {
       "id": 47,
       "name": "Movistar Tv + Liga 1 Max 1 Perfil – 1 Mes",
-      "price": 5.6,
+      "price": 1,
       "max": 0,
       "image": "./assets/aa30d109850e4f2f.jpg",
       "category": "cuentas-streaming",
@@ -1228,7 +1228,7 @@
     {
       "id": 48,
       "name": "Movistar Tv + Liga 1 Max Cuenta Completa – 1 Mes",
-      "price": 10,
+      "price": 1,
       "max": 0,
       "image": "./assets/aa30d109850e4f2f.jpg",
       "category": "cuentas-streaming",
@@ -1254,7 +1254,7 @@
     {
       "id": 49,
       "name": "NordVPN tarjeta de regalo 24 Meses",
-      "price": 77,
+      "price": 1,
       "max": 0,
       "image": "./assets/7fe06d0ecd64455a.jpg",
       "category": "herramientas-online",
@@ -1280,7 +1280,7 @@
     {
       "id": 50,
       "name": "Norton 360 Premium 1 Dispositivo 1 Año",
-      "price": 20,
+      "price": 1,
       "max": 0,
       "image": "./assets/a5668d02100a7a31.png",
       "category": "licencias-de-software",
@@ -1306,8 +1306,8 @@
     {
       "id": 51,
       "name": "NorVPN 1 Dispositivo",
-      "price": 3,
-      "max": 20,
+      "price": 1,
+      "max": 0,
       "image": "./assets/f9d5ceda8bc270f6.jpg",
       "category": "vpns-y-seguridad",
       "sub": "VPNs Premium",
@@ -1332,8 +1332,8 @@
     {
       "id": 52,
       "name": "PANEL – FLU TV",
-      "price": 95,
-      "max": 2200,
+      "price": 1,
+      "max": 0,
       "image": "./assets/9b4f29f3bc7e41a6.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
@@ -1358,8 +1358,8 @@
     {
       "id": 53,
       "name": "Panel – IPTV Smarters Pro",
-      "price": 30,
-      "max": 1300,
+      "price": 1,
+      "max": 0,
       "image": "./assets/7e5bdd0e6af57f72.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
@@ -1384,8 +1384,8 @@
     {
       "id": 54,
       "name": "PANEL – OLEA TV",
-      "price": 63,
-      "max": 1900,
+      "price": 1,
+      "max": 0,
       "image": "./assets/ae8677c72b263d9c.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
@@ -1410,8 +1410,8 @@
     {
       "id": 55,
       "name": "Panel – STEL.TV",
-      "price": 45,
-      "max": 2000,
+      "price": 1,
+      "max": 0,
       "image": "./assets/862358539c660ae8.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
@@ -1436,8 +1436,8 @@
     {
       "id": 56,
       "name": "PANEL – T.L",
-      "price": 84,
-      "max": 2100,
+      "price": 1,
+      "max": 0,
       "image": "./assets/2a48d8beb14073d9.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
@@ -1462,7 +1462,7 @@
     {
       "id": 57,
       "name": "Paramount 1 Perfil – 1 Mes",
-      "price": 1.8,
+      "price": 1,
       "max": 0,
       "image": "./assets/20c91b1a37159c5f.jpg",
       "category": "cuentas-streaming",
@@ -1488,7 +1488,7 @@
     {
       "id": 58,
       "name": "Paramount Cuenta Completa – 1 Mes",
-      "price": 5,
+      "price": 1,
       "max": 0,
       "image": "./assets/20c91b1a37159c5f.jpg",
       "category": "cuentas-streaming",
@@ -1514,7 +1514,7 @@
     {
       "id": 59,
       "name": "Prime Video 1 Perfil – 1 Mes",
-      "price": 1.8,
+      "price": 1,
       "max": 0,
       "image": "./assets/32cc8cac7cff20f1.jpg",
       "category": "cuentas-streaming",
@@ -1540,7 +1540,7 @@
     {
       "id": 60,
       "name": "Prime Video Global Cuenta Completa – 1 Mes",
-      "price": 4.5,
+      "price": 1,
       "max": 0,
       "image": "./assets/32cc8cac7cff20f1.jpg",
       "category": "cuentas-streaming",
@@ -1567,7 +1567,7 @@
       "id": 61,
       "name": "Recarga Free Fire – Latam",
       "price": 1,
-      "max": 40,
+      "max": 0,
       "image": "./assets/112c647be22719a3.jpg",
       "category": "gaming",
       "sub": "Juegos Digitales",
@@ -1592,8 +1592,8 @@
     {
       "id": 62,
       "name": "Seguidores TikTok",
-      "price": 2,
-      "max": 15,
+      "price": 1,
+      "max": 0,
       "image": "./assets/b572439727087f2e.jpg",
       "category": "herramientas-online",
       "sub": "Marketing Digital",
@@ -1619,12 +1619,12 @@
     {
       "id": 63,
       "name": "Spotify Premium Plan Individual 1 Mes",
-      "price": 3.5,
+      "price": 3,
       "max": 0,
       "image": "./assets/b31b7bafcec6ec35.jpg",
       "category": "cuentas-streaming",
       "sub": "Música",
-      "available": false,
+      "available": true,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1645,8 +1645,8 @@
     {
       "id": 64,
       "name": "Surfshark 1 dispositivo",
-      "price": 2.5,
-      "max": 18,
+      "price": 1,
+      "max": 0,
       "image": "./assets/48428698d3bdbcca.jpg",
       "category": "vpns-y-seguridad",
       "sub": "VPNs Premium",
@@ -1671,8 +1671,8 @@
     {
       "id": 65,
       "name": "Tidal Premium Plan Familiar",
-      "price": 8,
-      "max": 60,
+      "price": 1,
+      "max": 0,
       "image": "./assets/5c3968582d26161a.jpg",
       "category": "cuentas-streaming",
       "sub": "Música",
@@ -1697,8 +1697,8 @@
     {
       "id": 66,
       "name": "Tidal Premium Plan Individual",
-      "price": 2,
-      "max": 20,
+      "price": 1,
+      "max": 0,
       "image": "./assets/50c1b6ece754afe4.jpg",
       "category": "cuentas-streaming",
       "sub": "Música",
@@ -1723,8 +1723,8 @@
     {
       "id": 67,
       "name": "Tv Mágico",
-      "price": 5,
-      "max": 45,
+      "price": 1,
+      "max": 0,
       "image": "./assets/7cd6bd2d1708df07.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
@@ -1749,7 +1749,7 @@
     {
       "id": 68,
       "name": "Vix Premium 1 Perfil – 1 Mes",
-      "price": 1.7,
+      "price": 1,
       "max": 0,
       "image": "./assets/41fda971a8944fa5.jpg",
       "category": "cuentas-streaming",
@@ -1775,7 +1775,7 @@
     {
       "id": 69,
       "name": "Vix Premium Cuenta Completa – 1 Mes",
-      "price": 3.5,
+      "price": 1,
       "max": 0,
       "image": "./assets/41fda971a8944fa5.jpg",
       "category": "cuentas-streaming",
@@ -1801,7 +1801,7 @@
     {
       "id": 70,
       "name": "Vix Premium Cuenta Completa – 12 Meses",
-      "price": 15,
+      "price": 1,
       "max": 0,
       "image": "./assets/41fda971a8944fa5.jpg",
       "category": "cuentas-streaming",
@@ -1827,7 +1827,7 @@
     {
       "id": 71,
       "name": "Windows 10 Pro de por vida",
-      "price": 15,
+      "price": 1,
       "max": 0,
       "image": "./assets/2cf51fd878d0b249.jpg",
       "category": "licencias-de-software",
@@ -1853,7 +1853,7 @@
     {
       "id": 72,
       "name": "Windows 11 Pro de por vida",
-      "price": 15,
+      "price": 1,
       "max": 0,
       "image": "./assets/cf12f00faedaa3ca.jpg",
       "category": "licencias-de-software",
@@ -1879,7 +1879,7 @@
     {
       "id": 73,
       "name": "Crunchyroll Mega Fan Cuenta Completa | 1 Mes",
-      "price": 4,
+      "price": 1,
       "max": 0,
       "image": "./assets/18ab76ceb50d4fbb.jpg",
       "category": "cuentas-streaming",
@@ -1905,7 +1905,7 @@
     {
       "id": 74,
       "name": "Adobe Creative Cloud 3 Meses Privado – Oferta",
-      "price": 30,
+      "price": 1,
       "max": 0,
       "image": "./assets/f62fe28d500e2b59.jpg",
       "category": "licencias-de-software",
@@ -1931,8 +1931,8 @@
     {
       "id": 75,
       "name": "Adobe Creative Cloud Cuenta Compartida 1 dispositivo",
-      "price": 8,
-      "max": 40,
+      "price": 1,
+      "max": 0,
       "image": "./assets/f62fe28d500e2b59.jpg",
       "category": "herramientas-online",
       "sub": "Diseño y Creatividad",
@@ -1957,8 +1957,8 @@
     {
       "id": 76,
       "name": "Adobe Creative Cloud Cuenta Privada",
-      "price": 15,
-      "max": 70,
+      "price": 1,
+      "max": 0,
       "image": "./assets/f62fe28d500e2b59.jpg",
       "category": "herramientas-online",
       "sub": "Diseño y Creatividad",
@@ -1983,7 +1983,7 @@
     {
       "id": 77,
       "name": "Apple Music Plan Individual – 3 Meses",
-      "price": 7,
+      "price": 1,
       "max": 0,
       "image": "./assets/5f50652b3ef45a8f.jpg",
       "category": "cuentas-streaming",
@@ -2009,7 +2009,7 @@
     {
       "id": 78,
       "name": "Chat Gpt Plus 1 mes | Código promocional",
-      "price": 14,
+      "price": 1,
       "max": 0,
       "image": "./assets/0a161e4c49163ebd.jpg",
       "category": "licencias-de-software",
@@ -2035,12 +2035,12 @@
     {
       "id": 79,
       "name": "Chat Gpt Plus 1 mes | Cuenta Privada",
-      "price": 15,
+      "price": 9.9,
       "max": 0,
       "image": "./assets/0a161e4c49163ebd.jpg",
       "category": "licencias-de-software",
       "sub": "Inteligencia Artificial",
-      "available": false,
+      "available": true,
       "categories": [
         "licencias-de-software"
       ],
@@ -2061,7 +2061,7 @@
     {
       "id": 80,
       "name": "ChatGPT-5 – 1 Mes 1 Dispositivo",
-      "price": 4.5,
+      "price": 1,
       "max": 0,
       "image": "./assets/0a161e4c49163ebd.jpg",
       "category": "licencias-de-software",
@@ -2087,7 +2087,7 @@
     {
       "id": 81,
       "name": "Elevenlabs Creator Cuenta Privada 3 Meses",
-      "price": 25,
+      "price": 1,
       "max": 0,
       "image": "./assets/5f9b67f95832f350.jpg",
       "category": "licencias-de-software",
@@ -2112,7 +2112,7 @@
     },
     {
       "id": 82,
-      "name": "Gemini Pro Familiar 1 Mes",
+      "name": "Gemini Pro Familiar 1 Año",
       "price": 3,
       "max": 0,
       "image": "./assets/1b293b9844f332fd.jpg",
@@ -2130,8 +2130,8 @@
       "salePrice": null,
       "offerLabel": "",
       "gallery": [],
-      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
-      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
+      "description": "Gemini Pro Familiar por 1 año (12 meses). Precio total: 3 USD.",
+      "content": "Duración: 1 año (12 meses).\nPrecio total del plan: 3 USD.\nConsulta las condiciones de activación y uso antes de comprar.",
       "order": 43,
       "homeOrder": 81,
       "variants": []
@@ -2139,7 +2139,7 @@
     {
       "id": 83,
       "name": "Netflix Premium Cuenta Completa – 1 Mes",
-      "price": 15,
+      "price": 1,
       "max": 0,
       "image": "./assets/f34bd9c2f3cc3665.jpg",
       "category": "cuentas-streaming",
@@ -2165,8 +2165,8 @@
     {
       "id": 84,
       "name": "Perplexity Pro",
-      "price": 3,
-      "max": 20,
+      "price": 1,
+      "max": 0,
       "image": "./assets/9fa449fd90b44e80.jpg",
       "category": "licencias-de-software",
       "sub": "Inteligencia Artificial",
@@ -2191,8 +2191,8 @@
     {
       "id": 85,
       "name": "Spotify Premium Plan Individual",
-      "price": 4,
-      "max": 20,
+      "price": 1,
+      "max": 0,
       "image": "./assets/b31b7bafcec6ec35.jpg",
       "category": "cuentas-streaming",
       "sub": "Música",
@@ -2217,7 +2217,7 @@
     {
       "id": 86,
       "name": "Spotify Premium Plan Individual 3 Meses",
-      "price": 6,
+      "price": 1,
       "max": 0,
       "image": "./assets/b31b7bafcec6ec35.jpg",
       "category": "cuentas-streaming",
@@ -2243,8 +2243,8 @@
     {
       "id": 87,
       "name": "Tarjetas Free Fire – Latam",
-      "price": 0.55,
-      "max": 9.5,
+      "price": 1,
+      "max": 0,
       "image": "./assets/b9600b2b6c3af006.jpg",
       "category": "gaming",
       "sub": "Juegos Digitales",
@@ -2269,7 +2269,7 @@
     {
       "id": 88,
       "name": "YouTube Premium Plan Familiar – 1 Mes",
-      "price": 5,
+      "price": 1,
       "max": 0,
       "image": "./assets/a8e69d55ba6ec604.jpg",
       "category": "cuentas-streaming",
@@ -2296,7 +2296,7 @@
     {
       "id": 89,
       "name": "YouTube Premium Plan Individual – 1 Mes",
-      "price": 2.5,
+      "price": 1,
       "max": 0,
       "image": "./assets/62470b71e9a70d8c.jpg",
       "category": "cuentas-streaming",
@@ -2323,7 +2323,7 @@
     {
       "id": 90,
       "name": "YouTube Premium Plan Individual – 3 Meses",
-      "price": 5.5,
+      "price": 1,
       "max": 0,
       "image": "./assets/036e7af24eb32710.jpg",
       "category": "cuentas-streaming",
@@ -2346,6 +2346,68 @@
       "order": 89,
       "homeOrder": 89,
       "variants": []
+    },
+    {
+      "id": 91,
+      "name": "Claude API — Paquetes de tokens",
+      "price": 4,
+      "max": 0,
+      "image": "./assets/claude-api.png",
+      "category": "licencias-de-software",
+      "sub": "Inteligencia Artificial",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": false,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Producto oficial de la tienda\n⚡ Entrega automática instantánea\n\nAcceso a 29 modelos: Claude Opus, Sonnet y Haiku.\nElige tu paquete de tokens y duración.",
+      "content": "✔ Descripción\nPaquete inicial: 10M tokens / 1 día.\nModelos: 29 modelos — Claude Opus, Sonnet y Haiku.\n\nPaquetes disponibles\n• 10M tokens / 1 día (FW)\n• 50M tokens / 1 día (FW)\n• 100M tokens / 1 día (FW)\n• 100M tokens / 30 días (10DW)\n• 500M tokens / 30 días (10DW)\n\nSelecciona el paquete para ver su precio en USD.",
+      "order": 23,
+      "homeOrder": 90,
+      "variants": [
+        {
+          "id": "10m-1d",
+          "label": "10M tokens / 1 día (FW)",
+          "price": 4,
+          "salePrice": null,
+          "available": true
+        },
+        {
+          "id": "50m-1d",
+          "label": "50M tokens / 1 día (FW)",
+          "price": 7.94,
+          "salePrice": null,
+          "available": true
+        },
+        {
+          "id": "100m-1d",
+          "label": "100M tokens / 1 día (FW)",
+          "price": 9.88,
+          "salePrice": null,
+          "available": true
+        },
+        {
+          "id": "100m-30d",
+          "label": "100M tokens / 30 días (10DW)",
+          "price": 12.6,
+          "salePrice": null,
+          "available": true
+        },
+        {
+          "id": "500m-30d",
+          "label": "500M tokens / 30 días (10DW)",
+          "price": 27,
+          "salePrice": null,
+          "available": true
+        }
+      ]
     }
   ],
   "categories": [

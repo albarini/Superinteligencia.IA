@@ -5,12 +5,13 @@ import {visibleProducts,effectivePrice,onSale,isAvailable,hasOffer,isMoneyAmount
 import {validateStore} from '../lib/store.mjs';
 const seed = JSON.parse(fs.readFileSync(new URL('../data/seed.json',import.meta.url),'utf8'));
 
-test('catalogue preserves 90 products and local images, with only Gemini available at 3 USD',()=>{
+test('catalogue has 91 products and local images, with the requested active plans and remaining stock unavailable at 1 USD',()=>{
  assert.doesNotThrow(()=>validateStore(seed));
- assert.equal(seed.products.length,90);
- assert.deepEqual(seed.products.filter(p=>isAvailable(p)).map(p=>({id:p.id,price:effectivePrice(p)})),[{id:82,price:3}]);
+ assert.equal(seed.products.length,91);
+ assert.deepEqual(seed.products.filter(p=>isAvailable(p)).map(p=>({id:p.id,price:effectivePrice(p)})),[{id:63,price:3},{id:79,price:9.9},{id:82,price:3},{id:91,price:4}]);
+ assert.ok(seed.products.filter(p=>!isAvailable(p)).every(p=>priceRange(p).min===1&&priceRange(p).max===1));
  for(const entity of [...seed.products,...seed.categories,...seed.banners]) assert.ok(fs.existsSync(new URL('../dist/'+entity.image,import.meta.url)),entity.image);
- for(const [id,count] of Object.entries({'cuentas-streaming':59,'licencias-de-software':20,'herramientas-online':4,'gaming':2,'vpns-y-seguridad':6,'educacion-y-cursos':0}))assert.equal(seed.products.filter(p=>p.categories.includes(id)).length,count);
+ for(const [id,count] of Object.entries({'cuentas-streaming':59,'licencias-de-software':21,'herramientas-online':4,'gaming':2,'vpns-y-seguridad':6,'educacion-y-cursos':0}))assert.equal(seed.products.filter(p=>p.categories.includes(id)).length,count);
 });
 test('offers including zero are applied, ranges use available variants',()=>{
  const product={price:10,max:30,salePrice:0,available:true,visible:true,variants:[]};
