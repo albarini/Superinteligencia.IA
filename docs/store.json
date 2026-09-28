@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 7,
-  "updatedAt": "2026-09-27T23:47:14.312Z",
+  "revision": 8,
+  "updatedAt": "2026-09-28T00:12:36.544Z",
   "products": [
     {
       "id": 1,
@@ -11,7 +11,7 @@
       "image": "./assets/665861b26dabf201.jpg",
       "category": "licencias-de-software",
       "sub": "Otros Programas",
-      "available": true,
+      "available": false,
       "categories": [
         "licencias-de-software"
       ],
@@ -37,7 +37,7 @@
       "image": "./assets/c6864ea819ab6749.jpg",
       "category": "licencias-de-software",
       "sub": "Ofimática",
-      "available": true,
+      "available": false,
       "categories": [
         "licencias-de-software"
       ],
@@ -63,7 +63,7 @@
       "image": "./assets/f34bd9c2f3cc3665.jpg",
       "category": "cuentas-streaming",
       "sub": "Video",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -89,7 +89,7 @@
       "image": "./assets/47f76e22452eaf75.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -115,7 +115,7 @@
       "image": "./assets/e0ed6a796af1dba7.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -141,7 +141,7 @@
       "image": "./assets/b2487791b4697250.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -167,7 +167,7 @@
       "image": "./assets/0f5d14c01ef3173e.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -193,7 +193,7 @@
       "image": "./assets/2fe9a3640f204d4c.jpg",
       "category": "licencias-de-software",
       "sub": "Diseño Gráfico",
-      "available": true,
+      "available": false,
       "categories": [
         "licencias-de-software"
       ],
@@ -219,7 +219,7 @@
       "image": "./assets/2fe9a3640f204d4c.jpg",
       "category": "licencias-de-software",
       "sub": "Diseño Gráfico",
-      "available": true,
+      "available": false,
       "categories": [
         "licencias-de-software"
       ],
@@ -245,7 +245,7 @@
       "image": "./assets/963b7c065ef7df59.jpg",
       "category": "cuentas-streaming",
       "sub": "Video",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -271,7 +271,7 @@
       "image": "./assets/963b7c065ef7df59.jpg",
       "category": "cuentas-streaming",
       "sub": "Video",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -297,7 +297,7 @@
       "image": "./assets/6284b0cc2ad52492.jpg",
       "category": "licencias-de-software",
       "sub": "Diseño Gráfico",
-      "available": true,
+      "available": false,
       "categories": [
         "licencias-de-software"
       ],
@@ -323,7 +323,7 @@
       "image": "./assets/759632789d579582.jpg",
       "category": "licencias-de-software",
       "sub": "Diseño Gráfico",
-      "available": true,
+      "available": false,
       "categories": [
         "licencias-de-software"
       ],
@@ -349,7 +349,7 @@
       "image": "./assets/93b46870e6321d82.jpg",
       "category": "licencias-de-software",
       "sub": "Edición de Video",
-      "available": true,
+      "available": false,
       "categories": [
         "licencias-de-software"
       ],
@@ -375,7 +375,7 @@
       "image": "./assets/93b46870e6321d82.jpg",
       "category": "licencias-de-software",
       "sub": "Edición de Video",
-      "available": true,
+      "available": false,
       "categories": [
         "licencias-de-software"
       ],
@@ -401,7 +401,7 @@
       "image": "./assets/81281a0a8271e1c3.jpg",
       "category": "cuentas-streaming",
       "sub": "Deportes",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -427,7 +427,7 @@
       "image": "./assets/81281a0a8271e1c3.jpg",
       "category": "cuentas-streaming",
       "sub": "Deportes",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -453,7 +453,7 @@
       "image": "./assets/18ab76ceb50d4fbb.jpg",
       "category": "cuentas-streaming",
       "sub": "Video",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -479,7 +479,7 @@
       "image": "./assets/18ab76ceb50d4fbb.jpg",
       "category": "cuentas-streaming",
       "sub": "Video",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -505,7 +505,7 @@
       "image": "./assets/c0b374f442980c89.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -531,7 +531,7 @@
       "image": "./assets/f12bc44b54101850.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -557,7 +557,7 @@
       "image": "./assets/1cf882cb74b7a2e2.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -583,7 +583,7 @@
       "image": "./assets/ce4ff94c7ee16107.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -609,7 +609,7 @@
       "image": "./assets/ac155ece12b7c1ca.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -635,7 +635,7 @@
       "image": "./assets/6fc9db5701ac0c83.jpg",
       "category": "cuentas-streaming",
       "sub": "Música",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -661,7 +661,7 @@
       "image": "./assets/0976bc9df9664854.jpg",
       "category": "cuentas-streaming",
       "sub": "Deportes",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -687,7 +687,7 @@
       "image": "./assets/0976bc9df9664854.jpg",
       "category": "cuentas-streaming",
       "sub": "Deportes",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -713,7 +713,7 @@
       "image": "./assets/597822d1c2e22666.jpg",
       "category": "cuentas-streaming",
       "sub": "Video",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -739,7 +739,7 @@
       "image": "./assets/597822d1c2e22666.jpg",
       "category": "cuentas-streaming",
       "sub": "Video",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -765,7 +765,7 @@
       "image": "./assets/02fa921fa98b2b8c.jpg",
       "category": "cuentas-streaming",
       "sub": "Video",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -791,7 +791,7 @@
       "image": "./assets/02fa921fa98b2b8c.jpg",
       "category": "cuentas-streaming",
       "sub": "Video",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -817,7 +817,7 @@
       "image": "./assets/992b721dcd31cab6.jpg",
       "category": "licencias-de-software",
       "sub": "Antivirus",
-      "available": true,
+      "available": false,
       "categories": [
         "licencias-de-software"
       ],
@@ -843,7 +843,7 @@
       "image": "./assets/71f53647e2835791.jpg",
       "category": "vpns-y-seguridad",
       "sub": "VPNs Premium",
-      "available": true,
+      "available": false,
       "categories": [
         "vpns-y-seguridad"
       ],
@@ -869,7 +869,7 @@
       "image": "./assets/71f53647e2835791.jpg",
       "category": "vpns-y-seguridad",
       "sub": "VPNs Premium",
-      "available": true,
+      "available": false,
       "categories": [
         "vpns-y-seguridad"
       ],
@@ -895,7 +895,7 @@
       "image": "./assets/18d5388555058495.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -921,7 +921,7 @@
       "image": "./assets/97fe1c9a3c1295dd.jpg",
       "category": "vpns-y-seguridad",
       "sub": "VPNs Premium",
-      "available": true,
+      "available": false,
       "categories": [
         "vpns-y-seguridad"
       ],
@@ -947,7 +947,7 @@
       "image": "./assets/9ad6b0162468c925.jpg",
       "category": "vpns-y-seguridad",
       "sub": "VPNs Premium",
-      "available": true,
+      "available": false,
       "categories": [
         "vpns-y-seguridad"
       ],
@@ -973,7 +973,7 @@
       "image": "./assets/ff268fb602d42174.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -999,7 +999,7 @@
       "image": "./assets/ff268fb602d42174.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1025,7 +1025,7 @@
       "image": "./assets/0bac607938c7ac71.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1051,7 +1051,7 @@
       "image": "./assets/0bac607938c7ac71.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1077,7 +1077,7 @@
       "image": "./assets/bb409de9df161f4e.jpg",
       "category": "cuentas-streaming",
       "sub": "Video",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1103,7 +1103,7 @@
       "image": "./assets/bb409de9df161f4e.jpg",
       "category": "cuentas-streaming",
       "sub": "Video",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1129,7 +1129,7 @@
       "image": "./assets/5e2950a33572835a.jpg",
       "category": "cuentas-streaming",
       "sub": "Video",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1155,7 +1155,7 @@
       "image": "./assets/5e2950a33572835a.jpg",
       "category": "cuentas-streaming",
       "sub": "Video",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1181,7 +1181,7 @@
       "image": "./assets/88873913ad20db57.jpg",
       "category": "licencias-de-software",
       "sub": "Antivirus",
-      "available": true,
+      "available": false,
       "categories": [
         "licencias-de-software"
       ],
@@ -1207,7 +1207,7 @@
       "image": "./assets/aa30d109850e4f2f.jpg",
       "category": "cuentas-streaming",
       "sub": "Deportes",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1233,7 +1233,7 @@
       "image": "./assets/aa30d109850e4f2f.jpg",
       "category": "cuentas-streaming",
       "sub": "Deportes",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1259,7 +1259,7 @@
       "image": "./assets/7fe06d0ecd64455a.jpg",
       "category": "herramientas-online",
       "sub": "Tarjetas de Regalo",
-      "available": true,
+      "available": false,
       "categories": [
         "herramientas-online"
       ],
@@ -1285,7 +1285,7 @@
       "image": "./assets/a5668d02100a7a31.png",
       "category": "licencias-de-software",
       "sub": "Ofimática",
-      "available": true,
+      "available": false,
       "categories": [
         "licencias-de-software"
       ],
@@ -1311,7 +1311,7 @@
       "image": "./assets/f9d5ceda8bc270f6.jpg",
       "category": "vpns-y-seguridad",
       "sub": "VPNs Premium",
-      "available": true,
+      "available": false,
       "categories": [
         "vpns-y-seguridad"
       ],
@@ -1337,7 +1337,7 @@
       "image": "./assets/9b4f29f3bc7e41a6.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1363,7 +1363,7 @@
       "image": "./assets/7e5bdd0e6af57f72.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1389,7 +1389,7 @@
       "image": "./assets/ae8677c72b263d9c.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1415,7 +1415,7 @@
       "image": "./assets/862358539c660ae8.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1441,7 +1441,7 @@
       "image": "./assets/2a48d8beb14073d9.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1467,7 +1467,7 @@
       "image": "./assets/20c91b1a37159c5f.jpg",
       "category": "cuentas-streaming",
       "sub": "Video",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1493,7 +1493,7 @@
       "image": "./assets/20c91b1a37159c5f.jpg",
       "category": "cuentas-streaming",
       "sub": "Video",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1519,7 +1519,7 @@
       "image": "./assets/32cc8cac7cff20f1.jpg",
       "category": "cuentas-streaming",
       "sub": "Video",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1545,7 +1545,7 @@
       "image": "./assets/32cc8cac7cff20f1.jpg",
       "category": "cuentas-streaming",
       "sub": "Video",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1571,7 +1571,7 @@
       "image": "./assets/112c647be22719a3.jpg",
       "category": "gaming",
       "sub": "Juegos Digitales",
-      "available": true,
+      "available": false,
       "categories": [
         "gaming"
       ],
@@ -1597,7 +1597,7 @@
       "image": "./assets/b572439727087f2e.jpg",
       "category": "herramientas-online",
       "sub": "Marketing Digital",
-      "available": true,
+      "available": false,
       "categories": [
         "herramientas-online",
         "cuentas-streaming"
@@ -1624,7 +1624,7 @@
       "image": "./assets/b31b7bafcec6ec35.jpg",
       "category": "cuentas-streaming",
       "sub": "Música",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1650,7 +1650,7 @@
       "image": "./assets/48428698d3bdbcca.jpg",
       "category": "vpns-y-seguridad",
       "sub": "VPNs Premium",
-      "available": true,
+      "available": false,
       "categories": [
         "vpns-y-seguridad"
       ],
@@ -1676,7 +1676,7 @@
       "image": "./assets/5c3968582d26161a.jpg",
       "category": "cuentas-streaming",
       "sub": "Música",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1702,7 +1702,7 @@
       "image": "./assets/50c1b6ece754afe4.jpg",
       "category": "cuentas-streaming",
       "sub": "Música",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1728,7 +1728,7 @@
       "image": "./assets/7cd6bd2d1708df07.jpg",
       "category": "cuentas-streaming",
       "sub": "Televisión en Vivo / IPTV",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1754,7 +1754,7 @@
       "image": "./assets/41fda971a8944fa5.jpg",
       "category": "cuentas-streaming",
       "sub": "Video",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1780,7 +1780,7 @@
       "image": "./assets/41fda971a8944fa5.jpg",
       "category": "cuentas-streaming",
       "sub": "Video",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1806,7 +1806,7 @@
       "image": "./assets/41fda971a8944fa5.jpg",
       "category": "cuentas-streaming",
       "sub": "Video",
-      "available": true,
+      "available": false,
       "categories": [
         "cuentas-streaming"
       ],
@@ -1832,7 +1832,7 @@
       "image": "./assets/2cf51fd878d0b249.jpg",
       "category": "licencias-de-software",
       "sub": "Ofimática",
-      "available": true,
+      "available": false,
       "categories": [
         "licencias-de-software"
       ],
@@ -1858,7 +1858,7 @@
       "image": "./assets/cf12f00faedaa3ca.jpg",
       "category": "licencias-de-software",
       "sub": "Ofimática",
-      "available": true,
+      "available": false,
       "categories": [
         "licencias-de-software"
       ],
@@ -2113,12 +2113,12 @@
     {
       "id": 82,
       "name": "Gemini Pro Familiar 1 Mes",
-      "price": 5,
+      "price": 3,
       "max": 0,
       "image": "./assets/1b293b9844f332fd.jpg",
       "category": "licencias-de-software",
       "sub": "Inteligencia Artificial",
-      "available": false,
+      "available": true,
       "categories": [
         "licencias-de-software"
       ],
@@ -2459,21 +2459,11 @@
       "id": "banner-1",
       "title": "Cuentas de Streaming y Licencias Digitales en Perú",
       "description": "Activa tu mundo digital con Netflix, Disney+, Windows, Office y más, con entrega inmediata y precios accesibles.",
-      "image": "./assets/d3bf8f9b24e86f2a.jpg",
+      "image": "./assets/portada-familia.png",
       "buttonText": "Ver Productos",
       "buttonLink": "#productos",
       "visible": true,
       "order": 0
-    },
-    {
-      "id": "banner-2",
-      "title": "Cuentas de Streaming y Licencias Digitales en Perú",
-      "description": "Activa tu mundo digital con Netflix, Disney+, Windows, Office y más, con entrega inmediata y precios accesibles.",
-      "image": "./assets/d67743c5b95998fc.webp",
-      "buttonText": "Ver Productos",
-      "buttonLink": "#productos",
-      "visible": true,
-      "order": 1
     }
   ],
   "settings": {
@@ -2492,7 +2482,7 @@
     "aboutTitle": "ACERCA DE NOSOTROS",
     "aboutHeading": "Compra Cuentas de Streaming y Licencias Digitales con Entrega Inmediata en Perú",
     "aboutText": "En SUPER.INTELIGENICIA te ofrecemos una amplia variedad de cuentas de streaming baratas y seguras como Netflix Premium compartida estable, Disney+, HBO Max, Spotify Premium familiar, así como licencias digitales originales de Windows 11 Pro, Office 2021 Profesional Plus, Adobe Creative Cloud y más. Con más de 3 años de experiencia, garantizamos estabilidad, soporte personalizado y precios accesibles, enviando nuestros servicios a todo el Perú y diferentes países.\nDisfruta de tu entretenimiento, trabajo y estudio sin límites, con la confianza de una marca comprometida con la calidad.",
-    "footerText": "Somos una empresa con 3 años de trayectoria, trabajando y evolucionando para poder expandirnos a todos los países, dando a conocer nuestra marca. Al mismo tiempo, buscamos apoyar e incentivar a quienes están comenzando en este negocio.",
+    "footerText": "El futuro de la inteligencia artificial también es tu historia. Exploramos cómo la IA cambia el trabajo, la salud y la educación. 🔭🩸 Contenido cercano que conecta tecnología y humanidad, para comprender el presente e imaginar juntos futuros más sostenibles.",
     "copyright": "La inteligencia artificial transforma ideas en nuevas posibilidades.",
     "contactTitle": "Contactanos",
     "contactText": "Estamos aquí para ayudarte con tus cuentas de streaming y licencias digitales.",

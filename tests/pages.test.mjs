@@ -33,6 +33,7 @@ async function fileList(directory, prefix = '') {
 
 test('public snapshot removes hidden products, banners and extension fields without hiding visible products in hidden categories', () => {
   const input = structuredClone(seed);
+  input.banners.forEach(banner => { banner.visible = true; });
   input.privateToken = 'root-secret';
   input.nextProductId = 91;
   input.settings.password = 'settings-secret';

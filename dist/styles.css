@@ -12,3 +12,6 @@ body:has(dialog[open]){overflow:hidden}
 .site-header{color:var(--header-text,#fff)}footer{color:var(--footer-text,#fff)}.footer-columns p{color:inherit}.about-section p,.standard-page p,.product-page .product-detail p:not(.price),.breadcrumbs,.catalog-toolbar{color:var(--muted)}.submenu{color:#fff}.account,.locale,.mobile-bottom,.card-actions{color:#fff}.product-page .product-detail .price{color:var(--red)}
 
 .socials a svg{width:21px;height:21px}.socials a:focus-visible{outline:2px solid currentColor;outline-offset:3px}
+
+/* Contrast for the new cover photograph. */
+.hero-slide::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,#000c 0%,#0007 55%,#0002 100%);pointer-events:none}

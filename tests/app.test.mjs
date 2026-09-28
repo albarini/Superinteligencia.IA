@@ -5,10 +5,10 @@ import {visibleProducts,effectivePrice,onSale,isAvailable,hasOffer,isMoneyAmount
 import {validateStore} from '../lib/store.mjs';
 const seed = JSON.parse(fs.readFileSync(new URL('../data/seed.json',import.meta.url),'utf8'));
 
-test('original catalogue is valid, preserves 90 products and local images',()=>{
+test('catalogue preserves 90 products and local images, with only Gemini available at 3 USD',()=>{
  assert.doesNotThrow(()=>validateStore(seed));
  assert.equal(seed.products.length,90);
- assert.equal(seed.products.filter(p=>p.available).length,72);
+ assert.deepEqual(seed.products.filter(p=>isAvailable(p)).map(p=>({id:p.id,price:effectivePrice(p)})),[{id:82,price:3}]);
  for(const entity of [...seed.products,...seed.categories,...seed.banners]) assert.ok(fs.existsSync(new URL('../dist/'+entity.image,import.meta.url)),entity.image);
  for(const [id,count] of Object.entries({'cuentas-streaming':59,'licencias-de-software':20,'herramientas-online':4,'gaming':2,'vpns-y-seguridad':6,'educacion-y-cursos':0}))assert.equal(seed.products.filter(p=>p.categories.includes(id)).length,count);
 });
