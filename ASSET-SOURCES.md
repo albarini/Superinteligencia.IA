@@ -47,4 +47,4 @@ Actualización: 5 de octubre de 2026. Las marcas identifican los servicios del c
 | brainfm | [Fuente](https://www.brain.fm/) |
 | pangram | [Fuente](https://www.pangram.com/) |
 
-Los logos SVG se centraron en tarjetas blancas conservando sus trazados. ChatPRD utiliza el PNG contenido en su SVG oficial. Los servicios genéricos sin marca utilizan el recurso neutro del catálogo.
+Los logos SVG se centraron en tarjetas blancas conservando sus trazados. ChatPRD utiliza el PNG contenido en su SVG oficial. Paneles SMS utiliza un icono de mensajes creado para esta tienda (assets/catalog-20261005/sms.svg), sin atribuirlo a un proveedor o una marca.

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 11,
-  "updatedAt": "2026-10-06T00:16:28.626Z",
+  "revision": 13,
+  "updatedAt": "2026-10-06T00:44:37.701Z",
   "products": [
     {
       "id": 1,
@@ -2112,8 +2112,8 @@
     },
     {
       "id": 82,
-      "name": "Gemini Pro Familiar 1 Año",
-      "price": 3,
+      "name": "Gemini Pro Familiar | 5 dispositivos | 12 meses",
+      "price": 9.9,
       "max": 0,
       "image": "assets/1b293b9844f332fd.jpg",
       "category": "licencias-de-software",
@@ -2126,14 +2126,14 @@
         "Inteligencia Artificial"
       ],
       "visible": true,
-      "featured": false,
+      "featured": true,
       "salePrice": null,
       "offerLabel": "",
       "gallery": [],
-      "description": "Gemini Pro Familiar por 1 año (12 meses). Precio total: 3 USD.",
-      "content": "Duración: 1 año (12 meses).\nPrecio total del plan: 3 USD.\nConsulta las condiciones de activación y uso antes de comprar.",
-      "order": 1043,
-      "homeOrder": 81,
+      "description": "Cuenta familiar para 5 dispositivos. Duración: 12 meses. Precio total: 9.90 USD.",
+      "content": "Cuenta familiar para 5 dispositivos.\nDuración: 12 meses.\nPrecio total: 9.90 USD.\nConsulta las condiciones de activación y uso antes de comprar.",
+      "order": 22.1,
+      "homeOrder": 22.1,
       "variants": []
     },
     {
@@ -2731,7 +2731,7 @@
       "available": true,
       "visible": true,
       "featured": true,
-      "image": "assets/placeholder.svg",
+      "image": "assets/catalog-20261005/sms.svg",
       "gallery": [],
       "category": "herramientas-online",
       "categories": [
@@ -2957,7 +2957,7 @@
     },
     {
       "id": 113,
-      "name": "Gemini AI Pro | 3 meses",
+      "name": "Gemini Pro | 12 meses",
       "price": 2.99,
       "max": 0,
       "salePrice": null,
@@ -2975,16 +2975,16 @@
       "subs": [
         "Inteligencia Artificial"
       ],
-      "description": "Gemini AI Pro | 3 meses\nPrecio correspondiente al plan base. Consulta las condiciones de esta modalidad antes de comprar.",
-      "content": "Producto o servicio: Gemini AI Pro | 3 meses.\nDuración indicada: 3 meses.\nLa oferta corresponde a la opción base; otras modalidades se cotizan por separado.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "description": "Plan Gemini Pro. Duración: 12 meses. Precio total: 2.99 USD.",
+      "content": "Plan Gemini Pro.\nDuración: 12 meses.\nPrecio total: 2.99 USD.\nConsulta las condiciones de activación y uso antes de comprar.",
       "order": 21,
       "homeOrder": 21,
       "variants": []
     },
     {
       "id": 114,
-      "name": "Gemini AI Pro | 18 meses",
-      "price": 3.99,
+      "name": "Gemini Pro | 18 meses",
+      "price": 3.49,
       "max": 0,
       "salePrice": null,
       "offerLabel": "",
@@ -3001,8 +3001,8 @@
       "subs": [
         "Inteligencia Artificial"
       ],
-      "description": "Gemini AI Pro | 18 meses\nPrecio correspondiente al plan base. Consulta las condiciones de esta modalidad antes de comprar.",
-      "content": "Producto o servicio: Gemini AI Pro | 18 meses.\nDuración indicada: 18 meses.\nLa oferta corresponde a la opción base; otras modalidades se cotizan por separado.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "description": "Plan Gemini Pro. Duración: 18 meses. Precio total: 3.49 USD.",
+      "content": "Plan Gemini Pro.\nDuración: 18 meses.\nPrecio total: 3.49 USD.\nConsulta las condiciones de activación y uso antes de comprar.",
       "order": 22,
       "homeOrder": 22,
       "variants": []
@@ -3960,6 +3960,32 @@
       "order": 2151,
       "homeOrder": 2151,
       "variants": []
+    },
+    {
+      "id": 151,
+      "name": "Gemini Pro Familiar | 5 dispositivos | 18 meses",
+      "price": 14.9,
+      "max": 0,
+      "image": "assets/1b293b9844f332fd.jpg",
+      "category": "licencias-de-software",
+      "sub": "Inteligencia Artificial",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Cuenta familiar para 5 dispositivos. Duración: 18 meses. Precio total: 14.90 USD.",
+      "content": "Cuenta familiar para 5 dispositivos.\nDuración: 18 meses.\nPrecio total: 14.90 USD.\nConsulta las condiciones de activación y uso antes de comprar.",
+      "order": 22.2,
+      "homeOrder": 22.2,
+      "variants": []
     }
   ],
   "categories": [
@@ -4136,5 +4162,5 @@
     "showFeatured": true,
     "showAbout": true
   },
-  "nextProductId": 151
+  "nextProductId": 152
 }
