@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 13,
-  "updatedAt": "2026-10-06T00:44:37.701Z",
+  "revision": 15,
+  "updatedAt": "2026-10-06T11:09:24.704Z",
   "products": [
     {
       "id": 1,
@@ -2350,7 +2350,7 @@
     {
       "id": 91,
       "name": "Claude API | Paquetes de tokens",
-      "price": 4,
+      "price": 3.99,
       "max": 0,
       "image": "./assets/claude-api.png",
       "category": "licencias-de-software",
@@ -2363,33 +2363,33 @@
         "Inteligencia Artificial"
       ],
       "visible": true,
-      "featured": false,
+      "featured": true,
       "salePrice": null,
       "offerLabel": "",
       "gallery": [],
       "description": "Producto oficial de la tienda\n⚡ Entrega automática instantánea\n\nAcceso a 29 modelos: Claude Opus, Sonnet y Haiku.\nElige tu paquete de tokens y duración.",
-      "content": "✔ Descripción\nPaquete inicial: 10M tokens / 1 día.\nModelos: 29 modelos — Claude Opus, Sonnet y Haiku.\n\nPaquetes disponibles\n• 10M tokens / 1 día (FW)\n• 50M tokens / 1 día (FW)\n• 100M tokens / 1 día (FW)\n• 100M tokens / 30 días (10DW)\n• 500M tokens / 30 días (10DW)\n\nSelecciona el paquete para ver su precio en USD.",
-      "order": 1023,
-      "homeOrder": 90,
+      "content": "✔ Descripción\nPaquete inicial: 10M tokens | 1 día.\nModelos: 29 modelos — Claude Opus, Sonnet y Haiku.\n\nPaquetes disponibles\n• 10M tokens | 1 día (FW)\n• 50M tokens | 1 día (FW)\n• 100M tokens | 1 día (FW)\n• 100M tokens / 30 días (10DW)\n• 500M tokens | 30 días (10DW)\n\nSelecciona el paquete para ver su precio en USD.",
+      "order": 20.9,
+      "homeOrder": 20.9,
       "variants": [
         {
           "id": "10m-1d",
-          "label": "10M tokens / 1 día (FW)",
-          "price": 4,
+          "label": "10M tokens | 1 día (FW)",
+          "price": 3.99,
           "salePrice": null,
           "available": true
         },
         {
           "id": "50m-1d",
-          "label": "50M tokens / 1 día (FW)",
-          "price": 7.94,
+          "label": "50M tokens | 1 día (FW)",
+          "price": 6.99,
           "salePrice": null,
           "available": true
         },
         {
           "id": "100m-1d",
-          "label": "100M tokens / 1 día (FW)",
-          "price": 9.88,
+          "label": "100M tokens | 1 día (FW)",
+          "price": 7.99,
           "salePrice": null,
           "available": true
         },
@@ -2402,8 +2402,8 @@
         },
         {
           "id": "500m-30d",
-          "label": "500M tokens / 30 días (10DW)",
-          "price": 27,
+          "label": "500M tokens | 30 días (10DW)",
+          "price": 27.99,
           "salePrice": null,
           "available": true
         }
@@ -3804,6 +3804,77 @@
       "order": 53,
       "homeOrder": 53,
       "variants": []
+    },
+    {
+      "id": 150,
+      "name": "Codex API | Paquetes de tokens",
+      "price": 3.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/codex-api.svg",
+      "category": "licencias-de-software",
+      "sub": "Inteligencia Artificial",
+      "available": true,
+      "categories": [
+        "licencias-de-software",
+        "herramientas-online"
+      ],
+      "subs": [
+        "Inteligencia Artificial",
+        "Desarrollo y Automatización"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Paquetes de tokens para Codex. Elige la cantidad y la duración: 1, 7, 15 o 30 días. Consulta las condiciones de activación y uso antes de comprar.",
+      "content": "Paquetes disponibles\n• 10M tokens | 1 día (FW)\n• 50M tokens | 1 día (FW)\n• 100M tokens | 1 día (FW)\n• 200M tokens | 7 días (FW)\n• 300M tokens | 15 días (FW)\n• 500M tokens | 30 días (FW)\n\nEl precio corresponde al paquete completo seleccionado.\nConsulta los requisitos, el alcance del acceso y las condiciones de entrega con la tienda.",
+      "order": 20.95,
+      "homeOrder": 20.95,
+      "variants": [
+        {
+          "id": "10m-1d",
+          "label": "10M tokens | 1 día (FW)",
+          "price": 3.99,
+          "salePrice": null,
+          "available": true
+        },
+        {
+          "id": "50m-1d",
+          "label": "50M tokens | 1 día (FW)",
+          "price": 5.99,
+          "salePrice": null,
+          "available": true
+        },
+        {
+          "id": "100m-1d",
+          "label": "100M tokens | 1 día (FW)",
+          "price": 6.99,
+          "salePrice": null,
+          "available": true
+        },
+        {
+          "id": "200m-7d",
+          "label": "200M tokens | 7 días (FW)",
+          "price": 22.99,
+          "salePrice": null,
+          "available": true
+        },
+        {
+          "id": "300m-15d",
+          "label": "300M tokens | 15 días (FW)",
+          "price": 27.99,
+          "salePrice": null,
+          "available": true
+        },
+        {
+          "id": "500m-30d",
+          "label": "500M tokens | 30 días (FW)",
+          "price": 28.99,
+          "salePrice": null,
+          "available": true
+        }
+      ]
     },
     {
       "id": 151,
