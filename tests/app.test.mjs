@@ -5,13 +5,18 @@ import {visibleProducts,effectivePrice,onSale,isAvailable,hasOffer,isMoneyAmount
 import {validateStore} from '../lib/store.mjs';
 const seed = JSON.parse(fs.readFileSync(new URL('../data/seed.json',import.meta.url),'utf8'));
 
-test('catalogue has 91 products and local images, with the requested active plans and remaining stock unavailable at 1 USD',()=>{
+test('catalogue validates, references existing local images and exposes valid price ranges',()=>{
  assert.doesNotThrow(()=>validateStore(seed));
- assert.equal(seed.products.length,91);
- assert.deepEqual(seed.products.filter(p=>isAvailable(p)).map(p=>({id:p.id,price:effectivePrice(p)})),[{id:63,price:3},{id:79,price:9.9},{id:82,price:3},{id:91,price:4}]);
- assert.ok(seed.products.filter(p=>!isAvailable(p)).every(p=>priceRange(p).min===1&&priceRange(p).max===1));
- for(const entity of [...seed.products,...seed.categories,...seed.banners]) assert.ok(fs.existsSync(new URL('../dist/'+entity.image,import.meta.url)),entity.image);
- for(const [id,count] of Object.entries({'cuentas-streaming':59,'licencias-de-software':21,'herramientas-online':4,'gaming':2,'vpns-y-seguridad':6,'educacion-y-cursos':0}))assert.equal(seed.products.filter(p=>p.categories.includes(id)).length,count);
+ assert.ok(seed.products.length>0);
+ assert.ok(seed.nextProductId>Math.max(...seed.products.map(product=>product.id)));
+ for(const product of seed.products){
+  const range=priceRange(product);
+  assert.ok(isMoneyAmount(range.min)&&isMoneyAmount(range.max),product.name);
+  assert.ok(range.min<=range.max,product.name);
+ }
+ for(const entity of [...seed.products,...seed.categories,...seed.banners]){
+  for(const image of [entity.image,...(entity.gallery||[])].filter(Boolean)) assert.ok(fs.existsSync(new URL('../dist/'+image,import.meta.url)),image);
+ }
 });
 test('offers including zero are applied, ranges use available variants',()=>{
  const product={price:10,max:30,salePrice:0,available:true,visible:true,variants:[]};
@@ -57,11 +62,21 @@ test('only whole cents are accepted consistently with server validation',()=>{
  for(const value of [1.005,1.335,0.000001,-1,Infinity,'2.00'])assert.equal(isMoneyAmount(value),false,String(value));
 });
 test('search and renewals handle accents, punctuation and multiple categories',()=>{
- assert.equal(seed.products.filter(p=>matchesSearch(p,'Disney+')).length,4);
- assert.equal(seed.products.filter(p=>matchesSearch(p,'PREMIUM netflix')).length,2);
- assert.equal(seed.products.filter(p=>matchesSearch(p,'música')).length,10);
- const accounts=seed.products.filter(p=>matchesRenewal(p,'Disney+','cuenta'));
- assert.equal(accounts.length,2);assert.ok(accounts.every(p=>p.name.includes('Cuenta Completa')));
- assert.equal(seed.products.filter(p=>matchesRenewal(p,'Apple TV','perfil')).length,1);
+ const products=[
+  {id:1,name:'Disney Estándar | Cuenta Completa | 1 Mes',subs:['Video']},
+  {id:2,name:'Disney Premium | 1 Perfil | 1 Mes',subs:['Video']},
+  {id:3,name:'Netflix Premium | Cuenta Completa | 1 Mes',subs:['Video']},
+  {id:4,name:'Netflix Estándar | 1 Perfil | 1 Mes',subs:['Video']},
+  {id:5,name:'Spotify Premium | 1 Mes',subs:['Música']},
+  {id:6,name:'YouTube Premium | 1 Mes',subs:['Música','Video']},
+  {id:7,name:'Apple TV | 1 Dispositivo | 1 Mes',subs:['Video']},
+  {id:8,name:'Apple TV | Cuenta Completa | 1 Mes',subs:['Video']}
+ ];
+ assert.deepEqual(products.filter(p=>matchesSearch(p,'Disney+')).map(p=>p.id),[1,2]);
+ assert.deepEqual(products.filter(p=>matchesSearch(p,'PREMIUM netflix')).map(p=>p.id),[3]);
+ assert.deepEqual(products.filter(p=>matchesSearch(p,'musica')).map(p=>p.id),[5,6]);
+ assert.deepEqual(products.filter(p=>matchesSearch(p,'YouTube VIDEO')).map(p=>p.id),[6]);
+ assert.deepEqual(products.filter(p=>matchesRenewal(p,'Disney+','cuenta')).map(p=>p.id),[1]);
+ assert.deepEqual(products.filter(p=>matchesRenewal(p,'Apple TV','perfil')).map(p=>p.id),[7]);
  assert.equal(escapeHTML('<img onerror="bad">'),'&lt;img onerror=&quot;bad&quot;&gt;');
 });

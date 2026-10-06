@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Pangram"><rect width="600" height="600" fill="#fff"/><g fill="#111" color="#111"><svg viewBox="116 116 488 488" fill="none" xmlns="http://www.w3.org/2000/svg" x="125" y="105" width="350" height="350">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M359.983 575.114V575.131L165.343 385.77V144.852L359.983 575.114Z" fill="#FECAB9"/>
+<path d="M554.623 144.852V385.77L360.034 575.098L360 575.114L359.983 575.131V575.114L360 575.081L554.623 144.852Z" fill="#FECAB9"/>
+<path d="M554.657 144.852L360 575.081L359.983 575.114L165.343 144.852L360 256.258L554.657 144.852Z" fill="#FF6106"/>
+<path d="M360 575.081V575.148L359.983 575.131V575.114L360 575.081Z" fill="#FF6106"/>
+</svg></g><text x="300" y="515" text-anchor="middle" fill="#222" font-family="Arial,sans-serif" font-size="34" font-weight="600">Pangram</text></svg>

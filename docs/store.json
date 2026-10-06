@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 10,
-  "updatedAt": "2026-09-28T05:30:10.716Z",
+  "revision": 11,
+  "updatedAt": "2026-10-06T00:16:28.626Z",
   "products": [
     {
       "id": 1,
@@ -9,14 +9,14 @@
       "price": 1,
       "max": 0,
       "image": "./assets/665861b26dabf201.jpg",
-      "category": "licencias-de-software",
-      "sub": "Otros Programas",
+      "category": "educacion-y-cursos",
+      "sub": "Cursos e Idiomas",
       "available": false,
       "categories": [
-        "licencias-de-software"
+        "educacion-y-cursos"
       ],
       "subs": [
-        "Otros Programas"
+        "Cursos e Idiomas"
       ],
       "visible": true,
       "featured": true,
@@ -25,7 +25,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 0,
+      "order": 1000,
       "homeOrder": 0,
       "variants": []
     },
@@ -51,7 +51,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 1,
+      "order": 1001,
       "homeOrder": 1,
       "variants": []
     },
@@ -77,7 +77,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 2,
+      "order": 1002,
       "homeOrder": 2,
       "variants": []
     },
@@ -103,7 +103,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 4,
+      "order": 1004,
       "homeOrder": 3,
       "variants": []
     },
@@ -129,7 +129,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 5,
+      "order": 1005,
       "homeOrder": 4,
       "variants": []
     },
@@ -155,7 +155,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 6,
+      "order": 1006,
       "homeOrder": 5,
       "variants": []
     },
@@ -181,7 +181,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 7,
+      "order": 1007,
       "homeOrder": 6,
       "variants": []
     },
@@ -207,7 +207,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 11,
+      "order": 1011,
       "homeOrder": 7,
       "variants": []
     },
@@ -233,7 +233,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 12,
+      "order": 1012,
       "homeOrder": 8,
       "variants": []
     },
@@ -259,7 +259,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 14,
+      "order": 1014,
       "homeOrder": 9,
       "variants": []
     },
@@ -285,7 +285,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 15,
+      "order": 1015,
       "homeOrder": 10,
       "variants": []
     },
@@ -311,7 +311,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 16,
+      "order": 1016,
       "homeOrder": 11,
       "variants": []
     },
@@ -337,7 +337,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 17,
+      "order": 1017,
       "homeOrder": 12,
       "variants": []
     },
@@ -363,7 +363,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 18,
+      "order": 1018,
       "homeOrder": 13,
       "variants": []
     },
@@ -389,7 +389,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 19,
+      "order": 1019,
       "homeOrder": 14,
       "variants": []
     },
@@ -415,7 +415,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 24,
+      "order": 1024,
       "homeOrder": 15,
       "variants": []
     },
@@ -441,7 +441,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 23,
+      "order": 1023,
       "homeOrder": 16,
       "variants": []
     },
@@ -467,7 +467,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 25,
+      "order": 1025,
       "homeOrder": 17,
       "variants": []
     },
@@ -493,7 +493,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 26,
+      "order": 1026,
       "homeOrder": 18,
       "variants": []
     },
@@ -519,7 +519,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 27,
+      "order": 1027,
       "homeOrder": 19,
       "variants": []
     },
@@ -545,7 +545,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 30,
+      "order": 1030,
       "homeOrder": 20,
       "variants": []
     },
@@ -571,7 +571,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 31,
+      "order": 1031,
       "homeOrder": 21,
       "variants": []
     },
@@ -597,7 +597,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 28,
+      "order": 1028,
       "homeOrder": 22,
       "variants": []
     },
@@ -623,7 +623,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 29,
+      "order": 1029,
       "homeOrder": 23,
       "variants": []
     },
@@ -649,7 +649,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 32,
+      "order": 1032,
       "homeOrder": 24,
       "variants": []
     },
@@ -675,7 +675,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 33,
+      "order": 1033,
       "homeOrder": 25,
       "variants": []
     },
@@ -701,7 +701,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 34,
+      "order": 1034,
       "homeOrder": 26,
       "variants": []
     },
@@ -727,7 +727,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 35,
+      "order": 1035,
       "homeOrder": 27,
       "variants": []
     },
@@ -753,7 +753,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 36,
+      "order": 1036,
       "homeOrder": 28,
       "variants": []
     },
@@ -779,7 +779,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 37,
+      "order": 1037,
       "homeOrder": 29,
       "variants": []
     },
@@ -805,7 +805,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 38,
+      "order": 1038,
       "homeOrder": 30,
       "variants": []
     },
@@ -831,7 +831,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 40,
+      "order": 1040,
       "homeOrder": 31,
       "variants": []
     },
@@ -857,7 +857,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 41,
+      "order": 1041,
       "homeOrder": 32,
       "variants": []
     },
@@ -883,7 +883,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 42,
+      "order": 1042,
       "homeOrder": 33,
       "variants": []
     },
@@ -909,7 +909,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 44,
+      "order": 1044,
       "homeOrder": 34,
       "variants": []
     },
@@ -935,7 +935,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 45,
+      "order": 1045,
       "homeOrder": 35,
       "variants": []
     },
@@ -961,7 +961,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 46,
+      "order": 1046,
       "homeOrder": 36,
       "variants": []
     },
@@ -987,7 +987,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 47,
+      "order": 1047,
       "homeOrder": 37,
       "variants": []
     },
@@ -1013,7 +1013,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 48,
+      "order": 1048,
       "homeOrder": 38,
       "variants": []
     },
@@ -1039,7 +1039,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 49,
+      "order": 1049,
       "homeOrder": 39,
       "variants": []
     },
@@ -1065,7 +1065,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 50,
+      "order": 1050,
       "homeOrder": 40,
       "variants": []
     },
@@ -1091,7 +1091,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 51,
+      "order": 1051,
       "homeOrder": 41,
       "variants": []
     },
@@ -1117,7 +1117,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 52,
+      "order": 1052,
       "homeOrder": 42,
       "variants": []
     },
@@ -1143,7 +1143,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 53,
+      "order": 1053,
       "homeOrder": 43,
       "variants": []
     },
@@ -1169,7 +1169,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 54,
+      "order": 1054,
       "homeOrder": 44,
       "variants": []
     },
@@ -1195,7 +1195,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 55,
+      "order": 1055,
       "homeOrder": 45,
       "variants": []
     },
@@ -1221,7 +1221,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 56,
+      "order": 1056,
       "homeOrder": 46,
       "variants": []
     },
@@ -1247,7 +1247,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 57,
+      "order": 1057,
       "homeOrder": 47,
       "variants": []
     },
@@ -1273,7 +1273,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 59,
+      "order": 1059,
       "homeOrder": 48,
       "variants": []
     },
@@ -1299,7 +1299,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 60,
+      "order": 1060,
       "homeOrder": 49,
       "variants": []
     },
@@ -1325,7 +1325,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 61,
+      "order": 1061,
       "homeOrder": 50,
       "variants": []
     },
@@ -1351,7 +1351,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 62,
+      "order": 1062,
       "homeOrder": 51,
       "variants": []
     },
@@ -1377,7 +1377,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 63,
+      "order": 1063,
       "homeOrder": 52,
       "variants": []
     },
@@ -1403,7 +1403,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 64,
+      "order": 1064,
       "homeOrder": 53,
       "variants": []
     },
@@ -1429,7 +1429,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 65,
+      "order": 1065,
       "homeOrder": 54,
       "variants": []
     },
@@ -1455,7 +1455,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 66,
+      "order": 1066,
       "homeOrder": 55,
       "variants": []
     },
@@ -1481,7 +1481,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 67,
+      "order": 1067,
       "homeOrder": 56,
       "variants": []
     },
@@ -1507,7 +1507,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 68,
+      "order": 1068,
       "homeOrder": 57,
       "variants": []
     },
@@ -1533,7 +1533,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 70,
+      "order": 1070,
       "homeOrder": 58,
       "variants": []
     },
@@ -1559,7 +1559,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 71,
+      "order": 1071,
       "homeOrder": 59,
       "variants": []
     },
@@ -1585,7 +1585,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 72,
+      "order": 1072,
       "homeOrder": 60,
       "variants": []
     },
@@ -1612,7 +1612,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 73,
+      "order": 1073,
       "homeOrder": 61,
       "variants": []
     },
@@ -1638,7 +1638,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 75,
+      "order": 1075,
       "homeOrder": 62,
       "variants": []
     },
@@ -1664,7 +1664,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 77,
+      "order": 1077,
       "homeOrder": 63,
       "variants": []
     },
@@ -1690,7 +1690,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 79,
+      "order": 1079,
       "homeOrder": 64,
       "variants": []
     },
@@ -1716,7 +1716,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 80,
+      "order": 1080,
       "homeOrder": 65,
       "variants": []
     },
@@ -1742,7 +1742,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 81,
+      "order": 1081,
       "homeOrder": 66,
       "variants": []
     },
@@ -1768,7 +1768,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 82,
+      "order": 1082,
       "homeOrder": 67,
       "variants": []
     },
@@ -1794,7 +1794,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 83,
+      "order": 1083,
       "homeOrder": 68,
       "variants": []
     },
@@ -1820,7 +1820,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 84,
+      "order": 1084,
       "homeOrder": 69,
       "variants": []
     },
@@ -1846,7 +1846,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 85,
+      "order": 1085,
       "homeOrder": 70,
       "variants": []
     },
@@ -1872,7 +1872,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 86,
+      "order": 1086,
       "homeOrder": 71,
       "variants": []
     },
@@ -1898,7 +1898,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 3,
+      "order": 1003,
       "homeOrder": 72,
       "variants": []
     },
@@ -1924,7 +1924,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 8,
+      "order": 1008,
       "homeOrder": 73,
       "variants": []
     },
@@ -1950,7 +1950,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 9,
+      "order": 1009,
       "homeOrder": 74,
       "variants": []
     },
@@ -1976,7 +1976,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 10,
+      "order": 1010,
       "homeOrder": 75,
       "variants": []
     },
@@ -2002,7 +2002,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 13,
+      "order": 1013,
       "homeOrder": 76,
       "variants": []
     },
@@ -2028,7 +2028,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 20,
+      "order": 1020,
       "homeOrder": 77,
       "variants": []
     },
@@ -2054,7 +2054,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 21,
+      "order": 1021,
       "homeOrder": 78,
       "variants": []
     },
@@ -2080,7 +2080,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 22,
+      "order": 1022,
       "homeOrder": 79,
       "variants": []
     },
@@ -2106,7 +2106,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 39,
+      "order": 1039,
       "homeOrder": 80,
       "variants": []
     },
@@ -2132,7 +2132,7 @@
       "gallery": [],
       "description": "Gemini Pro Familiar por 1 año (12 meses). Precio total: 3 USD.",
       "content": "Duración: 1 año (12 meses).\nPrecio total del plan: 3 USD.\nConsulta las condiciones de activación y uso antes de comprar.",
-      "order": 43,
+      "order": 1043,
       "homeOrder": 81,
       "variants": []
     },
@@ -2158,19 +2158,19 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 58,
+      "order": 1058,
       "homeOrder": 82,
       "variants": []
     },
     {
       "id": 84,
-      "name": "Perplexity Pro",
-      "price": 1,
+      "name": "Perplexity Pro | 1 mes",
+      "price": 12.99,
       "max": 0,
       "image": "./assets/9fa449fd90b44e80.jpg",
       "category": "licencias-de-software",
       "sub": "Inteligencia Artificial",
-      "available": false,
+      "available": true,
       "categories": [
         "licencias-de-software"
       ],
@@ -2178,14 +2178,14 @@
         "Inteligencia Artificial"
       ],
       "visible": true,
-      "featured": false,
+      "featured": true,
       "salePrice": null,
       "offerLabel": "",
       "gallery": [],
-      "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
-      "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 69,
-      "homeOrder": 83,
+      "description": "Perplexity Pro | 1 mes\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Perplexity Pro | 1 mes.\nDuración indicada: 1 mes.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 47,
+      "homeOrder": 47,
       "variants": []
     },
     {
@@ -2210,7 +2210,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 74,
+      "order": 1074,
       "homeOrder": 84,
       "variants": []
     },
@@ -2236,7 +2236,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 76,
+      "order": 1076,
       "homeOrder": 85,
       "variants": []
     },
@@ -2262,7 +2262,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 78,
+      "order": 1078,
       "homeOrder": 86,
       "variants": []
     },
@@ -2289,7 +2289,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 87,
+      "order": 1087,
       "homeOrder": 87,
       "variants": []
     },
@@ -2316,7 +2316,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 88,
+      "order": 1088,
       "homeOrder": 88,
       "variants": []
     },
@@ -2343,7 +2343,7 @@
       "gallery": [],
       "description": "Producto digital. Consulta las condiciones de activación y uso antes de comprar.",
       "content": "La activación, las condiciones y el soporte se gestionan con el proveedor.",
-      "order": 89,
+      "order": 1089,
       "homeOrder": 89,
       "variants": []
     },
@@ -2369,7 +2369,7 @@
       "gallery": [],
       "description": "Producto oficial de la tienda\n⚡ Entrega automática instantánea\n\nAcceso a 29 modelos: Claude Opus, Sonnet y Haiku.\nElige tu paquete de tokens y duración.",
       "content": "✔ Descripción\nPaquete inicial: 10M tokens / 1 día.\nModelos: 29 modelos — Claude Opus, Sonnet y Haiku.\n\nPaquetes disponibles\n• 10M tokens / 1 día (FW)\n• 50M tokens / 1 día (FW)\n• 100M tokens / 1 día (FW)\n• 100M tokens / 30 días (10DW)\n• 500M tokens / 30 días (10DW)\n\nSelecciona el paquete para ver su precio en USD.",
-      "order": 23,
+      "order": 1023,
       "homeOrder": 90,
       "variants": [
         {
@@ -2408,6 +2408,1402 @@
           "available": true
         }
       ]
+    },
+    {
+      "id": 92,
+      "name": "Hotmail Outlook",
+      "price": 0.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/outlook.svg",
+      "category": "herramientas-online",
+      "sub": "Correo y Comunicación",
+      "available": true,
+      "categories": [
+        "herramientas-online"
+      ],
+      "subs": [
+        "Correo y Comunicación"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Hotmail Outlook\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Hotmail Outlook.\nConsulta la duración y el alcance del servicio antes de comprar.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 0,
+      "homeOrder": 0,
+      "variants": []
+    },
+    {
+      "id": 93,
+      "name": "Prueba de bot | Test",
+      "price": 0.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/telegram.svg",
+      "category": "herramientas-online",
+      "sub": "Desarrollo y Automatización",
+      "available": true,
+      "categories": [
+        "herramientas-online"
+      ],
+      "subs": [
+        "Desarrollo y Automatización"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Prueba de bot | Test\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Prueba de bot | Test.\nConsulta la duración y el alcance del servicio antes de comprar.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 1,
+      "homeOrder": 1,
+      "variants": []
+    },
+    {
+      "id": 94,
+      "name": "Spotify Premium | Código | 3 meses",
+      "price": 1.99,
+      "max": 0,
+      "image": "./assets/b31b7bafcec6ec35.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Música",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Música"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Spotify Premium | Código | 3 meses\nPrecio correspondiente al plan base. Consulta las condiciones de esta modalidad antes de comprar.",
+      "content": "Producto o servicio: Spotify Premium | Código | 3 meses.\nDuración indicada: 3 meses.\nLa oferta corresponde a la opción base; otras modalidades se cotizan por separado.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 2,
+      "homeOrder": 2,
+      "variants": []
+    },
+    {
+      "id": 95,
+      "name": "Bot KOKORO SHOP",
+      "price": 89.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/telegram.svg",
+      "category": "herramientas-online",
+      "sub": "Desarrollo y Automatización",
+      "available": true,
+      "categories": [
+        "herramientas-online"
+      ],
+      "subs": [
+        "Desarrollo y Automatización"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Bot KOKORO SHOP\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Bot KOKORO SHOP.\nConsulta la duración y el alcance del servicio antes de comprar.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 3,
+      "homeOrder": 3,
+      "variants": []
+    },
+    {
+      "id": 96,
+      "name": "Prime Video | Enlace VTR",
+      "price": 4.99,
+      "max": 0,
+      "image": "./assets/32cc8cac7cff20f1.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Prime Video | Enlace VTR\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Prime Video | Enlace VTR.\nConsulta la duración y el alcance del servicio antes de comprar.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 4,
+      "homeOrder": 4,
+      "variants": []
+    },
+    {
+      "id": 97,
+      "name": "Netflix | Reposada | IP Colombia",
+      "price": 4.99,
+      "max": 0,
+      "image": "./assets/f34bd9c2f3cc3665.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Netflix | Reposada | IP Colombia\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Netflix | Reposada | IP Colombia.\nConsulta la duración y el alcance del servicio antes de comprar.\nCondición indicada: IP Colombia. Consulta los requisitos y el alcance de esta modalidad.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 5,
+      "homeOrder": 5,
+      "variants": []
+    },
+    {
+      "id": 98,
+      "name": "Surfshark VPN | Código | 2 meses",
+      "price": 2.99,
+      "max": 0,
+      "image": "./assets/48428698d3bdbcca.jpg",
+      "category": "vpns-y-seguridad",
+      "sub": "VPNs Premium",
+      "available": true,
+      "categories": [
+        "vpns-y-seguridad"
+      ],
+      "subs": [
+        "VPNs Premium"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Surfshark VPN | Código | 2 meses\nPrecio correspondiente al plan base. Consulta las condiciones de esta modalidad antes de comprar.",
+      "content": "Producto o servicio: Surfshark VPN | Código | 2 meses.\nDuración indicada: 2 meses.\nLa oferta corresponde a la opción base; otras modalidades se cotizan por separado.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 6,
+      "homeOrder": 6,
+      "variants": []
+    },
+    {
+      "id": 99,
+      "name": "Apple TV | Enlace",
+      "price": 3.99,
+      "max": 0,
+      "image": "./assets/963b7c065ef7df59.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Video",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Apple TV | Enlace\nPrecio correspondiente al plan base. Consulta las condiciones de esta modalidad antes de comprar.",
+      "content": "Producto o servicio: Apple TV | Enlace.\nConsulta la duración y el alcance del servicio antes de comprar.\nLa oferta corresponde a la opción base; otras modalidades se cotizan por separado.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 7,
+      "homeOrder": 7,
+      "variants": []
+    },
+    {
+      "id": 100,
+      "name": "Discord Nitro | Código | 3 meses",
+      "price": 3.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/discord.svg",
+      "category": "herramientas-online",
+      "sub": "Correo y Comunicación",
+      "available": true,
+      "categories": [
+        "herramientas-online"
+      ],
+      "subs": [
+        "Correo y Comunicación"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Discord Nitro | Código | 3 meses\nPrecio correspondiente al plan base. Consulta las condiciones de esta modalidad antes de comprar.",
+      "content": "Producto o servicio: Discord Nitro | Código | 3 meses.\nDuración indicada: 3 meses.\nLa oferta corresponde a la opción base; otras modalidades se cotizan por separado.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 8,
+      "homeOrder": 8,
+      "variants": []
+    },
+    {
+      "id": 101,
+      "name": "Leonardo AI | 12 meses | NW",
+      "price": 12.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/leonardo.svg",
+      "category": "licencias-de-software",
+      "sub": "Inteligencia Artificial",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Leonardo AI | 12 meses | NW\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Leonardo AI | 12 meses | NW.\nDuración indicada: 12 meses.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 9,
+      "homeOrder": 9,
+      "variants": []
+    },
+    {
+      "id": 102,
+      "name": "Figma Pro | 2 años",
+      "price": 9.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/figma.svg",
+      "category": "herramientas-online",
+      "sub": "Diseño y Creatividad",
+      "available": true,
+      "categories": [
+        "herramientas-online"
+      ],
+      "subs": [
+        "Diseño y Creatividad"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Figma Pro | 2 años\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Figma Pro | 2 años.\nDuración indicada: 2 años.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 10,
+      "homeOrder": 10,
+      "variants": []
+    },
+    {
+      "id": 103,
+      "name": "Telegram | Más de 400 grupos",
+      "price": 22.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/telegram.svg",
+      "category": "herramientas-online",
+      "sub": "Correo y Comunicación",
+      "available": true,
+      "categories": [
+        "herramientas-online"
+      ],
+      "subs": [
+        "Correo y Comunicación"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Telegram | Más de 400 grupos\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Telegram | Más de 400 grupos.\nConsulta la duración y el alcance del servicio antes de comprar.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 11,
+      "homeOrder": 11,
+      "variants": []
+    },
+    {
+      "id": 104,
+      "name": "Paneles SMS | Paquete de 16",
+      "price": 22.99,
+      "max": 0,
+      "image": "./assets/placeholder.svg",
+      "category": "herramientas-online",
+      "sub": "Correo y Comunicación",
+      "available": true,
+      "categories": [
+        "herramientas-online"
+      ],
+      "subs": [
+        "Correo y Comunicación"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Paneles SMS | Paquete de 16\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Paneles SMS | Paquete de 16.\nConsulta la duración y el alcance del servicio antes de comprar.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 12,
+      "homeOrder": 12,
+      "variants": []
+    },
+    {
+      "id": 105,
+      "name": "Steam | Cuenta",
+      "price": 3.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/steam.svg",
+      "category": "gaming",
+      "sub": "Juegos Digitales",
+      "available": true,
+      "categories": [
+        "gaming"
+      ],
+      "subs": [
+        "Juegos Digitales"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Steam | Cuenta\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Steam | Cuenta.\nConsulta la duración y el alcance del servicio antes de comprar.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 13,
+      "homeOrder": 13,
+      "variants": []
+    },
+    {
+      "id": 106,
+      "name": "ChatGPT Business | 1 mes | NW",
+      "price": 12.99,
+      "max": 0,
+      "image": "./assets/0a161e4c49163ebd.jpg",
+      "category": "licencias-de-software",
+      "sub": "Inteligencia Artificial",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "ChatGPT Business | 1 mes | NW\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: ChatGPT Business | 1 mes | NW.\nDuración indicada: 1 mes.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 14,
+      "homeOrder": 14,
+      "variants": []
+    },
+    {
+      "id": 107,
+      "name": "ChatGPT Free | Cuenta + Hotmail",
+      "price": 0.99,
+      "max": 0,
+      "image": "./assets/0a161e4c49163ebd.jpg",
+      "category": "licencias-de-software",
+      "sub": "Inteligencia Artificial",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "ChatGPT Free | Cuenta + Hotmail\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: ChatGPT Free | Cuenta + Hotmail.\nConsulta la duración y el alcance del servicio antes de comprar.\nIncluye una cuenta de ChatGPT Free y Hotmail. No incluye una suscripción Plus o Business.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 15,
+      "homeOrder": 15,
+      "variants": []
+    },
+    {
+      "id": 108,
+      "name": "Facebook Business Manager",
+      "price": 44.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/facebook.svg",
+      "category": "herramientas-online",
+      "sub": "Marketing Digital",
+      "available": true,
+      "categories": [
+        "herramientas-online"
+      ],
+      "subs": [
+        "Marketing Digital"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Facebook Business Manager\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Facebook Business Manager.\nConsulta la duración y el alcance del servicio antes de comprar.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 16,
+      "homeOrder": 16,
+      "variants": []
+    },
+    {
+      "id": 109,
+      "name": "Google Storage | 12 meses",
+      "price": 9.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/google.svg",
+      "category": "herramientas-online",
+      "sub": "Almacenamiento en la Nube",
+      "available": true,
+      "categories": [
+        "herramientas-online"
+      ],
+      "subs": [
+        "Almacenamiento en la Nube"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Google Storage | 12 meses\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Google Storage | 12 meses.\nDuración indicada: 12 meses.\nConsulta la capacidad incluida antes de comprar.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 17,
+      "homeOrder": 17,
+      "variants": []
+    },
+    {
+      "id": 110,
+      "name": "Brain.fm | 3 meses",
+      "price": 3.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/brainfm.png",
+      "category": "cuentas-streaming",
+      "sub": "Música",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Música"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Brain.fm | 3 meses\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Brain.fm | 3 meses.\nDuración indicada: 3 meses.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 18,
+      "homeOrder": 18,
+      "variants": []
+    },
+    {
+      "id": 111,
+      "name": "GitHub Pro + Student | 2 años",
+      "price": 22.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/github.svg",
+      "category": "herramientas-online",
+      "sub": "Desarrollo y Automatización",
+      "available": true,
+      "categories": [
+        "herramientas-online"
+      ],
+      "subs": [
+        "Desarrollo y Automatización"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "GitHub Pro + Student | 2 años\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: GitHub Pro + Student | 2 años.\nDuración indicada: 2 años.\nModalidad educativa / Student: sujeta a los requisitos de elegibilidad del servicio.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 19,
+      "homeOrder": 19,
+      "variants": []
+    },
+    {
+      "id": 112,
+      "name": "iLovePDF Premium | 1 año",
+      "price": 3.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/ilovepdf.svg",
+      "category": "herramientas-online",
+      "sub": "Productividad y Colaboración",
+      "available": true,
+      "categories": [
+        "herramientas-online"
+      ],
+      "subs": [
+        "Productividad y Colaboración"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "iLovePDF Premium | 1 año\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: iLovePDF Premium | 1 año.\nDuración indicada: 1 año.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 20,
+      "homeOrder": 20,
+      "variants": []
+    },
+    {
+      "id": 113,
+      "name": "Gemini AI Pro | 3 meses",
+      "price": 2.99,
+      "max": 0,
+      "image": "./assets/1b293b9844f332fd.jpg",
+      "category": "licencias-de-software",
+      "sub": "Inteligencia Artificial",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Gemini AI Pro | 3 meses\nPrecio correspondiente al plan base. Consulta las condiciones de esta modalidad antes de comprar.",
+      "content": "Producto o servicio: Gemini AI Pro | 3 meses.\nDuración indicada: 3 meses.\nLa oferta corresponde a la opción base; otras modalidades se cotizan por separado.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 21,
+      "homeOrder": 21,
+      "variants": []
+    },
+    {
+      "id": 114,
+      "name": "Gemini AI Pro | 18 meses",
+      "price": 3.99,
+      "max": 0,
+      "image": "./assets/1b293b9844f332fd.jpg",
+      "category": "licencias-de-software",
+      "sub": "Inteligencia Artificial",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Gemini AI Pro | 18 meses\nPrecio correspondiente al plan base. Consulta las condiciones de esta modalidad antes de comprar.",
+      "content": "Producto o servicio: Gemini AI Pro | 18 meses.\nDuración indicada: 18 meses.\nLa oferta corresponde a la opción base; otras modalidades se cotizan por separado.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 22,
+      "homeOrder": 22,
+      "variants": []
+    },
+    {
+      "id": 115,
+      "name": "Manus Pro | 12 meses",
+      "price": 59.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/manus.svg",
+      "category": "licencias-de-software",
+      "sub": "Inteligencia Artificial",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Manus Pro | 12 meses\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Manus Pro | 12 meses.\nDuración indicada: 12 meses.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 23,
+      "homeOrder": 23,
+      "variants": []
+    },
+    {
+      "id": 116,
+      "name": "Cursor Pro | 12 meses",
+      "price": 139.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/cursor.svg",
+      "category": "herramientas-online",
+      "sub": "Desarrollo y Automatización",
+      "available": true,
+      "categories": [
+        "herramientas-online",
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Desarrollo y Automatización",
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Cursor Pro | 12 meses\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Cursor Pro | 12 meses.\nDuración indicada: 12 meses.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 24,
+      "homeOrder": 24,
+      "variants": []
+    },
+    {
+      "id": 117,
+      "name": "Higgsfield Pro | 12 meses",
+      "price": 169.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/higgsfield.svg",
+      "category": "licencias-de-software",
+      "sub": "Inteligencia Artificial",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Higgsfield Pro | 12 meses\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Higgsfield Pro | 12 meses.\nDuración indicada: 12 meses.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 25,
+      "homeOrder": 25,
+      "variants": []
+    },
+    {
+      "id": 118,
+      "name": "n8n Starter | 12 meses",
+      "price": 19.9,
+      "max": 0,
+      "image": "./assets/catalog-20261005/n8n.svg",
+      "category": "herramientas-online",
+      "sub": "Desarrollo y Automatización",
+      "available": true,
+      "categories": [
+        "herramientas-online"
+      ],
+      "subs": [
+        "Desarrollo y Automatización"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "n8n Starter | 12 meses\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: n8n Starter | 12 meses.\nDuración indicada: 12 meses.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 26,
+      "homeOrder": 26,
+      "variants": []
+    },
+    {
+      "id": 119,
+      "name": "Coursera | 12 meses + Gemini Pro | 3 meses",
+      "price": 4.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/coursera.svg",
+      "category": "educacion-y-cursos",
+      "sub": "Cursos e Idiomas",
+      "available": true,
+      "categories": [
+        "educacion-y-cursos",
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Cursos e Idiomas",
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Coursera | 12 meses + Gemini Pro | 3 meses\nDuración: Coursera: 12 meses; Gemini Pro: 3 meses.\nPrecio correspondiente al plan base. Consulta las condiciones de esta modalidad antes de comprar.",
+      "content": "Producto o servicio: Coursera | 12 meses + Gemini Pro | 3 meses.\nDuración indicada: Coursera: 12 meses; Gemini Pro: 3 meses.\nLa oferta corresponde a la opción base; otras modalidades se cotizan por separado.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 27,
+      "homeOrder": 27,
+      "variants": []
+    },
+    {
+      "id": 120,
+      "name": "Coursera Premium | 12 meses",
+      "price": 3.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/coursera.svg",
+      "category": "educacion-y-cursos",
+      "sub": "Cursos e Idiomas",
+      "available": true,
+      "categories": [
+        "educacion-y-cursos"
+      ],
+      "subs": [
+        "Cursos e Idiomas"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Coursera Premium | 12 meses\nPrecio correspondiente al plan base. Consulta las condiciones de esta modalidad antes de comprar.",
+      "content": "Producto o servicio: Coursera Premium | 12 meses.\nDuración indicada: 12 meses.\nLa oferta corresponde a la opción base; otras modalidades se cotizan por separado.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 28,
+      "homeOrder": 28,
+      "variants": []
+    },
+    {
+      "id": 121,
+      "name": "Replit Core | 12 meses",
+      "price": 39.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/replit.svg",
+      "category": "herramientas-online",
+      "sub": "Desarrollo y Automatización",
+      "available": true,
+      "categories": [
+        "herramientas-online",
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Desarrollo y Automatización",
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Replit Core | 12 meses\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Replit Core | 12 meses.\nDuración indicada: 12 meses.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 29,
+      "homeOrder": 29,
+      "variants": []
+    },
+    {
+      "id": 122,
+      "name": "Runway Pro | 12 meses",
+      "price": 39.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/runway.svg",
+      "category": "licencias-de-software",
+      "sub": "Inteligencia Artificial",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Runway Pro | 12 meses\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Runway Pro | 12 meses.\nDuración indicada: 12 meses.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 30,
+      "homeOrder": 30,
+      "variants": []
+    },
+    {
+      "id": 123,
+      "name": "Google AI Pro | 12 meses",
+      "price": 22.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/google.svg",
+      "category": "licencias-de-software",
+      "sub": "Inteligencia Artificial",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Google AI Pro | 12 meses\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Google AI Pro | 12 meses.\nDuración indicada: 12 meses.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 31,
+      "homeOrder": 31,
+      "variants": []
+    },
+    {
+      "id": 124,
+      "name": "Super Grok | 7 días | W5D",
+      "price": 7.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/grok.svg",
+      "category": "licencias-de-software",
+      "sub": "Inteligencia Artificial",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Super Grok | 7 días | W5D\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Super Grok | 7 días | W5D.\nDuración indicada: 7 días.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 32,
+      "homeOrder": 32,
+      "variants": []
+    },
+    {
+      "id": 125,
+      "name": "QuillBot Premium | 1 mes",
+      "price": 4.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/quillbot.svg",
+      "category": "licencias-de-software",
+      "sub": "Inteligencia Artificial",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "QuillBot Premium | 1 mes\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: QuillBot Premium | 1 mes.\nDuración indicada: 1 mes.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 33,
+      "homeOrder": 33,
+      "variants": []
+    },
+    {
+      "id": 126,
+      "name": "LinkedIn Career | 3 meses",
+      "price": 3.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/linkedin.svg",
+      "category": "educacion-y-cursos",
+      "sub": "Desarrollo Profesional",
+      "available": true,
+      "categories": [
+        "educacion-y-cursos"
+      ],
+      "subs": [
+        "Desarrollo Profesional"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "LinkedIn Career | 3 meses\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: LinkedIn Career | 3 meses.\nDuración indicada: 3 meses.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 34,
+      "homeOrder": 34,
+      "variants": []
+    },
+    {
+      "id": 127,
+      "name": "Framer Pro | 12 meses",
+      "price": 9.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/framer.svg",
+      "category": "herramientas-online",
+      "sub": "Diseño y Creatividad",
+      "available": true,
+      "categories": [
+        "herramientas-online"
+      ],
+      "subs": [
+        "Diseño y Creatividad"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Framer Pro | 12 meses\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Framer Pro | 12 meses.\nDuración indicada: 12 meses.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 35,
+      "homeOrder": 35,
+      "variants": []
+    },
+    {
+      "id": 128,
+      "name": "Gamma Pro | 12 meses",
+      "price": 28.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/gamma.svg",
+      "category": "licencias-de-software",
+      "sub": "Inteligencia Artificial",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Gamma Pro | 12 meses\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Gamma Pro | 12 meses.\nDuración indicada: 12 meses.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 36,
+      "homeOrder": 36,
+      "variants": []
+    },
+    {
+      "id": 129,
+      "name": "Granola Business",
+      "price": 6.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/granola.svg",
+      "category": "herramientas-online",
+      "sub": "Productividad y Colaboración",
+      "available": true,
+      "categories": [
+        "herramientas-online",
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Productividad y Colaboración",
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Granola Business\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Granola Business.\nConsulta la duración y el alcance del servicio antes de comprar.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 37,
+      "homeOrder": 37,
+      "variants": []
+    },
+    {
+      "id": 130,
+      "name": "Warp Build | 12 meses",
+      "price": 14.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/warp.svg",
+      "category": "herramientas-online",
+      "sub": "Desarrollo y Automatización",
+      "available": true,
+      "categories": [
+        "herramientas-online",
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Desarrollo y Automatización",
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Warp Build | 12 meses\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Warp Build | 12 meses.\nDuración indicada: 12 meses.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 38,
+      "homeOrder": 38,
+      "variants": []
+    },
+    {
+      "id": 131,
+      "name": "Railway Hobby | 12 meses",
+      "price": 16.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/railway.svg",
+      "category": "herramientas-online",
+      "sub": "Desarrollo y Automatización",
+      "available": true,
+      "categories": [
+        "herramientas-online"
+      ],
+      "subs": [
+        "Desarrollo y Automatización"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Railway Hobby | 12 meses\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Railway Hobby | 12 meses.\nDuración indicada: 12 meses.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 39,
+      "homeOrder": 39,
+      "variants": []
+    },
+    {
+      "id": 132,
+      "name": "Gumloop Pro | 12 meses",
+      "price": 9.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/gumloop.svg",
+      "category": "herramientas-online",
+      "sub": "Desarrollo y Automatización",
+      "available": true,
+      "categories": [
+        "herramientas-online",
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Desarrollo y Automatización",
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Gumloop Pro | 12 meses\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Gumloop Pro | 12 meses.\nDuración indicada: 12 meses.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 40,
+      "homeOrder": 40,
+      "variants": []
+    },
+    {
+      "id": 133,
+      "name": "Bolt.new Pro | 12 meses",
+      "price": 28.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/bolt.svg",
+      "category": "herramientas-online",
+      "sub": "Desarrollo y Automatización",
+      "available": true,
+      "categories": [
+        "herramientas-online",
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Desarrollo y Automatización",
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Bolt.new Pro | 12 meses\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Bolt.new Pro | 12 meses.\nDuración indicada: 12 meses.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 41,
+      "homeOrder": 41,
+      "variants": []
+    },
+    {
+      "id": 134,
+      "name": "Descript Creator | 12 meses",
+      "price": 27.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/descript.svg",
+      "category": "licencias-de-software",
+      "sub": "Edición de Video",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Edición de Video"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Descript Creator | 12 meses\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Descript Creator | 12 meses.\nDuración indicada: 12 meses.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 42,
+      "homeOrder": 42,
+      "variants": []
+    },
+    {
+      "id": 135,
+      "name": "Pangram Pro | 12 meses",
+      "price": 16.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/pangram.svg",
+      "category": "licencias-de-software",
+      "sub": "Inteligencia Artificial",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Pangram Pro | 12 meses\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Pangram Pro | 12 meses.\nDuración indicada: 12 meses.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 43,
+      "homeOrder": 43,
+      "variants": []
+    },
+    {
+      "id": 136,
+      "name": "Mobbin | 10x Seat | 12 meses",
+      "price": 14.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/mobbin.svg",
+      "category": "herramientas-online",
+      "sub": "Diseño y Creatividad",
+      "available": true,
+      "categories": [
+        "herramientas-online"
+      ],
+      "subs": [
+        "Diseño y Creatividad"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Mobbin | 10x Seat | 12 meses\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Mobbin | 10x Seat | 12 meses.\nDuración indicada: 12 meses.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 44,
+      "homeOrder": 44,
+      "variants": []
+    },
+    {
+      "id": 137,
+      "name": "Magic Patterns Starter | 12 meses | NW",
+      "price": 6.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/magicpatterns.svg",
+      "category": "herramientas-online",
+      "sub": "Diseño y Creatividad",
+      "available": true,
+      "categories": [
+        "herramientas-online",
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Diseño y Creatividad",
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Magic Patterns Starter | 12 meses | NW\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Magic Patterns Starter | 12 meses | NW.\nDuración indicada: 12 meses.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 45,
+      "homeOrder": 45,
+      "variants": []
+    },
+    {
+      "id": 138,
+      "name": "ChatPRD | 12 meses",
+      "price": 7.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/chatprd.png",
+      "category": "herramientas-online",
+      "sub": "Productividad y Colaboración",
+      "available": true,
+      "categories": [
+        "herramientas-online",
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Productividad y Colaboración",
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "ChatPRD | 12 meses\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: ChatPRD | 12 meses.\nDuración indicada: 12 meses.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 46,
+      "homeOrder": 46,
+      "variants": []
+    },
+    {
+      "id": 139,
+      "name": "Apple Music | 5 meses",
+      "price": 3.99,
+      "max": 0,
+      "image": "./assets/5f50652b3ef45a8f.jpg",
+      "category": "cuentas-streaming",
+      "sub": "Música",
+      "available": true,
+      "categories": [
+        "cuentas-streaming"
+      ],
+      "subs": [
+        "Música"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Apple Music | 5 meses\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Apple Music | 5 meses.\nDuración indicada: 5 meses.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 48,
+      "homeOrder": 48,
+      "variants": []
+    },
+    {
+      "id": 140,
+      "name": "Autodesk | Panel Admin 3000",
+      "price": 19.9,
+      "max": 0,
+      "image": "./assets/6284b0cc2ad52492.jpg",
+      "category": "licencias-de-software",
+      "sub": "Diseño Gráfico",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Diseño Gráfico"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Autodesk | Panel Admin 3000\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Autodesk | Panel Admin 3000.\nConsulta la duración y el alcance del servicio antes de comprar.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 49,
+      "homeOrder": 49,
+      "variants": []
+    },
+    {
+      "id": 141,
+      "name": "Wispr Flow | Student | 12 meses",
+      "price": 16.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/wispr.svg",
+      "category": "licencias-de-software",
+      "sub": "Inteligencia Artificial",
+      "available": true,
+      "categories": [
+        "licencias-de-software"
+      ],
+      "subs": [
+        "Inteligencia Artificial"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Wispr Flow | Student | 12 meses\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Wispr Flow | Student | 12 meses.\nDuración indicada: 12 meses.\nModalidad educativa / Student: sujeta a los requisitos de elegibilidad del servicio.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 50,
+      "homeOrder": 50,
+      "variants": []
+    },
+    {
+      "id": 142,
+      "name": "JetBrains | Edu Pack | 12 meses",
+      "price": 6.99,
+      "max": 0,
+      "image": "./assets/catalog-20261005/jetbrains.svg",
+      "category": "herramientas-online",
+      "sub": "Desarrollo y Automatización",
+      "available": true,
+      "categories": [
+        "herramientas-online"
+      ],
+      "subs": [
+        "Desarrollo y Automatización"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "JetBrains | Edu Pack | 12 meses\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: JetBrains | Edu Pack | 12 meses.\nDuración indicada: 12 meses.\nModalidad educativa / Student: sujeta a los requisitos de elegibilidad del servicio.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 51,
+      "homeOrder": 51,
+      "variants": []
+    },
+    {
+      "id": 143,
+      "name": "Miro | Panel Edu | 100 invitaciones | Lifetime",
+      "price": 19.9,
+      "max": 0,
+      "image": "./assets/catalog-20261005/miro.svg",
+      "category": "herramientas-online",
+      "sub": "Productividad y Colaboración",
+      "available": true,
+      "categories": [
+        "herramientas-online"
+      ],
+      "subs": [
+        "Productividad y Colaboración"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "Miro | Panel Edu | 100 invitaciones | Lifetime\nDuración: Lifetime (según el título).\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: Miro | Panel Edu | 100 invitaciones | Lifetime.\nDuración indicada: Lifetime (según el título).\nModalidad educativa / Student: sujeta a los requisitos de elegibilidad del servicio.\nModalidad: panel Edu con 100 invitaciones, indicado como Lifetime. Consulta el alcance y las condiciones de permanencia.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 52,
+      "homeOrder": 52,
+      "variants": []
+    },
+    {
+      "id": 144,
+      "name": "NordVPN Basic | Enlace | 3 meses",
+      "price": 5.99,
+      "max": 0,
+      "image": "./assets/f9d5ceda8bc270f6.jpg",
+      "category": "vpns-y-seguridad",
+      "sub": "VPNs Premium",
+      "available": true,
+      "categories": [
+        "vpns-y-seguridad"
+      ],
+      "subs": [
+        "VPNs Premium"
+      ],
+      "visible": true,
+      "featured": true,
+      "salePrice": null,
+      "offerLabel": "",
+      "gallery": [],
+      "description": "NordVPN Basic | Enlace | 3 meses\nConsulta las condiciones de activación y uso antes de comprar.",
+      "content": "Producto o servicio: NordVPN Basic | Enlace | 3 meses.\nDuración indicada: 3 meses.\nAtención y condiciones de entrega por los canales de contacto de la tienda.",
+      "order": 53,
+      "homeOrder": 53,
+      "variants": []
     }
   ],
   "categories": [
@@ -2439,9 +3835,14 @@
         "Estrategias de Negocio",
         "Creación de Cuentas",
         "Venta de Plataformas",
-        "Gestión de Servicios"
+        "Gestión de Servicios",
+        "Cursos e Idiomas",
+        "Desarrollo Profesional"
       ],
-      "homeSubs": [],
+      "homeSubs": [
+        "Cursos e Idiomas",
+        "Desarrollo Profesional"
+      ],
       "visible": true,
       "order": 1
     },
@@ -2468,12 +3869,18 @@
         "Almacenamiento en la Nube",
         "Diseño y Creatividad",
         "Marketing Digital",
-        "Tarjetas de Regalo"
+        "Tarjetas de Regalo",
+        "Desarrollo y Automatización",
+        "Productividad y Colaboración",
+        "Correo y Comunicación"
       ],
       "homeSubs": [
         "Diseño y Creatividad",
         "Marketing Digital",
-        "Tarjetas de Regalo"
+        "Tarjetas de Regalo",
+        "Desarrollo y Automatización",
+        "Productividad y Colaboración",
+        "Correo y Comunicación"
       ],
       "visible": true,
       "order": 3
